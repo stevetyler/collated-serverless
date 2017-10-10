@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Happy New Year everyone :tada: ",
+        "ts": "1483431415.000220",
+        "reactions": [
+            {
+                "name": "champagne",
+                "users": [
+                    "U0C6GLVL3",
+                    "U06BGNMBL",
+                    "U072K0544",
+                    "U0B47NPJ9",
+                    "U0L9R72E6",
+                    "U040MK408",
+                    "U04BD6KB1",
+                    "U0BR1H1FY",
+                    "U043951H9"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": ":champagne: :fireworks: :sharkdance:",
+        "ts": "1483433462.000221"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": ":tada:",
+        "ts": "1483440165.000222"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "Any `ember-changeset` users around?",
+        "ts": "1483452024.000223"
+    }
+]

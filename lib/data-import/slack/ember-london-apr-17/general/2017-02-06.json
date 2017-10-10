@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U0BR1H1FY",
+        "text": "Cloud native computing foundation buys rethinkdb, there may be life in it yet. <https:\/\/rethinkdb.com\/blog\/rethinkdb-joins-linux-foundation\/>",
+        "ts": "1486413344.000451"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<@U043AB2QT> <@U040MK408>  do you think your dad would like to code?",
+        "ts": "1486422293.000454"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "<@U0BR1H1FY> fingers crossed WRT rethinkdb",
+        "ts": "1486426840.000455"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "the open source world deserves a real-time database (and I'm not yet convinced with GunDB)",
+        "ts": "1486426900.000456"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "if anyone fancies reading an RFC, I cracked this today in preparation for a whole new kind of tools like babel-preset-env and eslint-plugin-compat",
+        "ts": "1484051433.000277"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<https:\/\/github.com\/ember-cli\/rfcs\/pull\/95>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Standarize targets by cibernox · Pull Request #95 · ember-cli\/rfcs · GitHub",
+                "title_link": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/95",
+                "text": "rendered",
+                "fallback": "GitHub: Standarize targets by cibernox · Pull Request #95 · ember-cli\/rfcs",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/265339?v=3&s=400",
+                "from_url": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/95",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484051435.000278"
+    },
+    {
+        "user": "U3P5WN6TT",
+        "text": "<@U3P5WN6TT|anand5387> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484094755.000282"
+    }
+]

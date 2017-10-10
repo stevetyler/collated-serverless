@@ -1,0 +1,188 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "how would I go on and use bower packages now? if it's possible hehe",
+        "attachments": [
+            {
+                "fallback": "[March 29th, 2017 12:53 PM] tragiclifestories: yes, although .bowerrc is still there",
+                "ts": "1490788380.864993",
+                "author_subname": "tragiclifestories",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "yes, although .bowerrc is still there",
+                "author_name": "James Turley",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/tragiclifestories",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a650031adbcdb5470d7fde256fd4db80.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/C03SSL0GP\/p1490788380864993",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1490859446.311425"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "for example, say I wanted to add bootstrap to my app",
+        "ts": "1490859453.313398"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i think you can still have the bower file if your project needs it, just that ember-cli doesn’t anymore",
+        "ts": "1490859591.351319"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "we still have it in ours",
+        "ts": "1490859610.356593"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<@U043951H9> I added the `bower.json` file myself and re-ran the blueprint",
+        "ts": "1490859612.357241"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "it removed it",
+        "ts": "1490859614.357744"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "ah i see",
+        "ts": "1490859620.359709"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "maybe worth reporting?",
+        "ts": "1490859626.361364"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "using ember init?",
+        "ts": "1490859632.362843"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "yup",
+        "ts": "1490859637.364185"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "ah usually ill just skip the change for that file",
+        "ts": "1490859648.367362"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "it doesn't prompt you",
+        "ts": "1490859661.370922"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": ":open_mouth:",
+        "ts": "1490859665.372041"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "k, im not sure then",
+        "ts": "1490859672.373740"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i dont remember what i did when we upgraded then",
+        "ts": "1490859685.377518"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "which version of ember-cli are you guys on?",
+        "ts": "1490859722.387542"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "going to check just now on `2.13.0-beta.2`",
+        "ts": "1490859732.390161"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "2.12.0",
+        "ts": "1490859785.405719"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I can confirm it does remove the file without prompting me for it",
+        "ts": "1490859914.442126"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'll open an issue :smile:",
+        "ts": "1490859917.443090"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "yeah, seems it should prompt at least",
+        "ts": "1490859949.452705"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "weird",
+        "ts": "1490859951.453267"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<https:\/\/github.com\/ember-cli\/ember-cli\/issues\/6876>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "2.13 ember init wipes bower.json (filesToRemove doesn't prompt before deleting) · Issue #6876 · ember-cli\/ember-cli",
+                "title_link": "https:\/\/github.com\/ember-cli\/ember-cli\/issues\/6876",
+                "text": "When upgrading to 2.13, running ember init removes the bower.json file without prompting despite it containing dependencies. Steps to reproduce: cat bower.json: { \"name\": \"orange-whisky\", \"depe...",
+                "fallback": "GitHub: 2.13 ember init wipes bower.json (filesToRemove doesn't prompt before deleting) · Issue #6876 · ember-cli\/ember-cli",
+                "from_url": "https:\/\/github.com\/ember-cli\/ember-cli\/issues\/6876",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/1550?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490860199.524053"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "it was open already, ~10 days ago",
+        "ts": "1490860210.527231"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "although it was marked for deletion on the code as the comments suggest",
+        "ts": "1490860220.530275"
+    }
+]

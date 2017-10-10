@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "the ember test recorder is getting some tender loving care!",
+        "ts": "1489878174.851325"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "reincarnated here <https:\/\/github.com\/QuantumInformation\/test-recorder>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "QuantumInformation\/test-recorder",
+                "title_link": "https:\/\/github.com\/QuantumInformation\/test-recorder",
+                "text": "test-recorder - Records integration tests for web applications. (Planned support, Vanilla, React, Ember)",
+                "fallback": "GitHub: QuantumInformation\/test-recorder",
+                "from_url": "https:\/\/github.com\/QuantumInformation\/test-recorder",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/216566?v=3&s=400",
+                "thumb_width": 182,
+                "thumb_height": 182,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489878305.860601"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "once nightwatch is done will add the same functionality to ember",
+        "ts": "1489878318.861735"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’ve simplified the code a lot!\nand moved to typescript",
+        "ts": "1489878421.869096"
+    }
+]

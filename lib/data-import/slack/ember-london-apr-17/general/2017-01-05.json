@@ -1,0 +1,182 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’m speaking about TS again but about react and angular this time: <https:\/\/www.eventbrite.co.uk\/e\/lets-talk-javascript-frameworks-tickets-30885038983>",
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Let's Talk JavaScript Frameworks",
+                "title_link": "https:\/\/www.eventbrite.co.uk\/e\/lets-talk-javascript-frameworks-tickets-30885038983",
+                "text": "Join us for this FREE and lively event in London to discuss the latest topics in JavaScript Frameworks (topics TBC). The evening will open with some light networking, along with some FREE drinks and food, so get there early! We will then welcome our speakers to discuss the latest JavaScript Frameworks followed by a Q&amp;A where you will get the opportunity to ask questions on the topics they have discussed. The evening will finish with a chance to do some further networking.   Speakers  Nikos Katsikanis: Nikos has over 10 years extensive experience working as a JavaScript Developer. He currently runs his own company satisfying his clients needs through IT technology stacks such as JavaScript, Java, C#, Java, ColdFusion, MS SQL and Flex. He also offers offer training to companies and the public (through his Youtube channel) in topics such as JavaScript, Webpack, TypeScript and React. Nikos is a leader in the web development space in the UK. He has worked with several of the largest UK companies in their respective fields and has wealth of experience at the code and business level. More speakers TBC Where: 125 Finsbury Pavement, Moorgate, London, EC2A 1NQ When: Wednesday 25th January  Time: 6:00pm - 8:00pm Click here for directions. The venue is just a short walk from Moorgate and Liverpool Street underground stations.",
+                "fallback": "Eventbrite: Let's Talk JavaScript Frameworks",
+                "thumb_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F27035248%2F155718759135%2F1%2Foriginal.jpg?w=1000&rect=66%2C27%2C926%2C463&s=8c763c490bde42db8fe333fee884a93a",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "125 Finsbury Pavement London, England EC2A 1NQ GB",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Wed, 25 Jan 2017 at 18:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.co.uk\/e\/lets-talk-javascript-frameworks-tickets-30885038983",
+                "thumb_width": 1000,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/1aab42\/django\/images\/touch_icons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1483610274.000241"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "btw, if anyone it tired of `broccoli-asset-rev` I am working on a replacement",
+        "ts": "1483610781.000243"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "one that parses the glimmer AST wireformat and performs context-aware fingerprinting and all that, instead of the current buggy regex-based approach",
+        "ts": "1483610845.000244"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "since I discovered codemods i'm like a monkey with hammer",
+        "ts": "1483610884.000245"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "everything looks like a nail",
+        "ts": "1483610890.000246"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "lol",
+        "ts": "1483610914.000247"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but it's fun",
+        "ts": "1483610922.000248",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U04BD6KB1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "monkey with a hammer is the story of my life",
+        "ts": "1483616410.000249"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": ":monkey:",
+        "ts": "1483616413.000250"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "anyone here use docker for development?",
+        "ts": "1483619245.000251"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "for ember development?",
+        "ts": "1483619269.000252"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "for any development",
+        "ts": "1483619273.000253"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "I use it for running the micro-services and main api, yeah",
+        "ts": "1483619298.000254"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "ember development though, there's no point",
+        "ts": "1483619311.000255"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "when running said microservices locally, how do you boot the container?",
+        "ts": "1483619467.000256"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "I’m sorta expecting that Dockerfile could be used to spin up a dev environment from the same description",
+        "ts": "1483619498.000257"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "but maybe I’m thinking too much like Vagrant",
+        "ts": "1483619507.000258"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "basically, the project structure is like this:\n```\n|- boot-project\n|--- docker-compose.yml\n|- micro-service-1\n|--- docker-compose.yml\n|- micro-service-2\n|--- docker-compose.yml\n|- micro-service-3\n|--- docker-compose.yml\n```\n\nboot-project\/docker-compose.yml looks something something like:\n```\nversion: '2'\nservices:\n    micro-service-1:\n        env_file: ..\/micro-service-1\/.env\n        build:\n            context: ..\/micro-service-1\n        ports:\n            - 3000:3000\n        ...rest of your configuration\n    micro-service-2:\n        env_file: ..\/micro-service-2\/.env\n        build:\n            context: ..\/micro-service-2\n        ports:\n            - 3030:3030\n        ...rest of your configuration\n\n... same for the rest of the micro-services\n```",
+        "ts": "1483619789.000259"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "essentially, you only `docker-compose up` the boot-project, which starts up everything else",
+        "ts": "1483619809.000260"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "ah, I think that’s the piece I’m missing",
+        "ts": "1483619966.000261"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "cool. ping me if you need any help",
+        "ts": "1483619987.000262"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "will do, thanks",
+        "ts": "1483619991.000263"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": ":beers:",
+        "ts": "1483619998.000264"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Anyone using Rollbar with Ember for error reporting?",
+        "ts": "1483622112.000265"
+    }
+]

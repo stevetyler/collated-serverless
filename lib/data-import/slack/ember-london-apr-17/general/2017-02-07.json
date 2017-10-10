@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<@U04BE0ELZ> My dad was a programmer, so yes, a lot",
+        "ts": "1486457980.000457"
+    },
+    {
+        "type": "message",
+        "user": "U043AB2QT",
+        "text": "I can’t imagine so. Nowhere near as much as I’d like to teach him anyway :slightly_smiling_face: Props to your dad.",
+        "attachments": [
+            {
+                "fallback": "[February 6th, 2017 11:04 PM] nikoskatsikanis: <@U043AB2QT> <@U040MK408>  do you think your dad would like to code?",
+                "ts": "1486422293.000454",
+                "author_subname": "nikoskatsikanis",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U043AB2QT> <@U040MK408>  do you think your dad would like to code?",
+                "author_name": "Nikos",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/nikoskatsikanis",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-11-04\/100505430051_89ed525b942a8a9f000d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1486422293000454",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1486458033.000458"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "gg",
+        "ts": "1486458035.000459"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "my mom's house if full of vintage programming books, from the javascript 2.0 to Cobol",
+        "ts": "1486458060.000460"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "he taught me a bit of visual basic one afternoon",
+        "ts": "1486458137.000461"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Simplabs and Mike North are doing a Pro Ember.js Workshop in Berlin in May.\n\nThey are offering a 10% discount for meetup members with the code MEETUPS2017.\n\nMore info on the website here: <https:\/\/ember-workshop.simplabs.com>",
+        "attachments": [
+            {
+                "title": "Pro Ember.js Workshop",
+                "title_link": "https:\/\/ember-workshop.simplabs.com",
+                "text": "Ember.js Workshops by simplabs",
+                "fallback": "Pro Ember.js Workshop",
+                "from_url": "https:\/\/ember-workshop.simplabs.com",
+                "service_name": "ember-workshop.simplabs.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486476478.000462"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "nice!",
+        "ts": "1486491825.000464"
+    }
+]

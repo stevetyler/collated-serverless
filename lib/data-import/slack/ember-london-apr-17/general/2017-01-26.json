@@ -1,0 +1,8 @@
+[
+    {
+        "type": "message",
+        "user": "U04TVTLQ8",
+        "text": "Getting a memory leak in a bog standard ember data project that's using model.reload to poll for changes. Wondering if it's due to a computed property that returns a new ArrayProxy due to being based on promises. How does the previous one get destroyed?",
+        "ts": "1485494968.000375"
+    }
+]

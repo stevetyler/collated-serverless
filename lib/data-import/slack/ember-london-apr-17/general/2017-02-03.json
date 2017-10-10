@@ -1,0 +1,292 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "so so cool ^",
+        "ts": "1486119845.000408",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U04BE0ELZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "Hi guys, just started using ember-cordova and as part of the setup you need to change config.locationType to ‘hash’ in environment.js. Consequently this adds an extra #:id in my routes i.e. \/:userid\/#:userid which I don’t want. Anyone know how to get round this? Thanks",
+        "ts": "1486125589.000409"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "<@U09CS0TJ9> - that may or may not be a problem. If it runs on Cordova, the address bar won’t show, so that won’t matter. Now, if you have the same codebase running outside Cordova, and you want to avoid the hash, an option would be to have an envvar switching which `locationType` to use for each build",
+        "ts": "1486126375.000410"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "so `config.locationType = ‘hash’` in the Cordova build, conditional to an envvar",
+        "ts": "1486126416.000411"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "Thanks Pablo I thought about that, I’ll give that a go.",
+        "ts": "1486126510.000412"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "thats interesting, our cordova app has the hash but only at the start:\n`<http:\/\/localhost:4200\/#\/account\/>`",
+        "edited": {
+            "user": "U3W7SH77W",
+            "ts": "1486127115.000000"
+        },
+        "ts": "1486127011.000413"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "<@U3W7SH77W> - is the hash lost in other routes, or do routes exist on top of the hash?",
+        "ts": "1486128798.000415"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "its always there, all the routes exist on top",
+        "ts": "1486128854.000416"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "right. Then that’s the way it’s expected to work, when configured to use it",
+        "ts": "1486128877.000417"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "now that you mentioned, I hadn’t realised that Steve’s example had something relevant (`:userid`) before the hash. I’m confused now",
+        "ts": "1486128918.000418"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "yeah what he has looks odd",
+        "ts": "1486128963.000419"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "having another look.",
+        "ts": "1486128981.000420"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "<@U05485UQL> <@U3W7SH77W> this is what I’m getting: <https:\/\/www.collated.net\/stevetyler_uk#\/stevetyler_uk>",
+        "ts": "1486129422.000421"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "<@U05485UQL> <@U3W7SH77W> should I have an ENV.environment === ‘cordova’ instead of ‘production’ ? Thanks again",
+        "ts": "1486129466.000422"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "no I don’t think so, our app is still running 2.3.x (just upgrading it now) but we just have:\n``` var ENV = {\n    baseURL: '\/',\n    locationType: ‘hash’```",
+        "edited": {
+            "user": "U3W7SH77W",
+            "ts": "1486129597.000000"
+        },
+        "ts": "1486129587.000423"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "Thanks I’m rather confused now. I’ll post in #e-cordova on the community team. Thanks for your help",
+        "ts": "1486129848.000425"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "<@U09CS0TJ9> - I suspect what you have might be a backend misconfiguration, but I can’t be sure",
+        "ts": "1486131271.000426"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "I’d be happy to have a look next Project Night",
+        "ts": "1486131284.000427"
+    },
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "ok thanks Pablo",
+        "ts": "1486131356.000428"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "I’m having a real hard time with the 2.10 upgrade and the glimmer stuff",
+        "ts": "1486131462.000429"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "primarily, I don’t fully understand what’s causing this:\n`\"Assertion Failed: You modified xyz twice on in a single render`",
+        "ts": "1486131513.000430"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "<@U3W7SH77W> - yeah, that kind of thing appears when you are doing something that shouldn’t have done in the first place, but simply wasn’t detected before",
+        "ts": "1486132067.000431"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "does it provide a URL with description?",
+        "ts": "1486132073.000432"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "as in: a description of the deprecation somewhere in <http:\/\/emberjs.com>",
+        "attachments": [
+            {
+                "title": "Ember.js: A framework for creating ambitious web applications.",
+                "title_link": "http:\/\/emberjs.com",
+                "text": "Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast.",
+                "fallback": "Ember.js: A framework for creating ambitious web applications.",
+                "thumb_url": "http:\/\/emberjs.com\/images\/tomster-sm.png",
+                "from_url": "http:\/\/emberjs.com",
+                "thumb_width": 220,
+                "thumb_height": 220,
+                "service_icon": "http:\/\/emberjs.com\/images\/favicon.png",
+                "service_name": "emberjs.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486132095.000433"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "Yes theres a link to the github page. I’ve located the template and model that triggers the error, if I understand correctly, it doesn’t like a computed property value changing after the initial render?",
+        "ts": "1486132214.000435"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "depending on how you change it. Can you show some code?",
+        "ts": "1486132252.000436"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "i think so, just getting clearance from the boss :slightly_smiling_face:",
+        "ts": "1486132462.000437"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "from the Github issue, I see that \"`init`, `didInitAttrs`, `didReceiveAttrs`, `willInsertElement` and `willRender` [happen] synchronously during the rendering process”. Ember doesn’t like you changing values that have just been rendered, in the same… what are they called… process? thread? fiber? execution? go? (damn you JS!) anyway, in the same go",
+        "ts": "1486132499.000438"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "run loop",
+        "ts": "1486132518.000439",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05485UQL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": ":slightly_smiling_face:",
+        "ts": "1486132520.000440"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "yes!",
+        "ts": "1486132521.000441"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "a way to fix it might be to `Ember.run` the offending code",
+        "ts": "1486132600.000442"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "that feels a bit hacky?",
+        "ts": "1486132643.000443"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "yes. It probably points to a larger problem where the component should be built differently",
+        "ts": "1486132665.000444"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "yeah, and I’m happy to do it, I just need to understand what causes the problem (I’m pretty new to ember)",
+        "ts": "1486132702.000445"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "happy to see code if that can help",
+        "ts": "1486133324.000446"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "<@U3W7SH77W> ember 2.11 has a more friendly error message for this",
+        "ts": "1486134180.000447"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "<http:\/\/emberjs.com\/blog\/2017\/01\/23\/ember-2-11-released.html>",
+        "attachments": [
+            {
+                "title": "Ember.js: Ember 2.11 and 2.12 Beta Released",
+                "title_link": "http:\/\/emberjs.com\/blog\/2017\/01\/23\/ember-2-11-released.html",
+                "text": "Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast.",
+                "fallback": "Ember.js: Ember 2.11 and 2.12 Beta Released",
+                "thumb_url": "http:\/\/emberjs.com\/images\/tomster-sm.png",
+                "from_url": "http:\/\/emberjs.com\/blog\/2017\/01\/23\/ember-2-11-released.html",
+                "thumb_width": 220,
+                "thumb_height": 220,
+                "service_icon": "http:\/\/emberjs.com\/images\/favicon.png",
+                "service_name": "emberjs.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486134286.000448"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "thank you deepan_aiyasamy, I will have a look!",
+        "ts": "1486134426.000450"
+    }
+]

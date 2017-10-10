@@ -1,0 +1,219 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U18BAPQ82|andrew.pye> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/andrew.pye\/F4A22GXA9\/pasted_image_at_2017_02_24_01_10_pm.png|Sourcemap alignment issue?> and commented: Hi guys! Couple of debugging questions from trying to track down a memory leak in one of our apps:\n\n1) Has anybody seen chrome die when processing a memory profile after stopping recording? It does it for me on the app in question, but not on other ember apps.\n\n2) Debugging the app manually is nigh on impossible because the line numbers in the sources panel are out of alignment (see screen grab). If I drop a breakpoint in, when execution pauses it's actually executing a different line to the one devtools shows it to be on. Any thoughts?",
+        "file": {
+            "id": "F4A22GXA9",
+            "created": 1487934760,
+            "timestamp": 1487934760,
+            "name": "Pasted image at 2017_02_24 01_10 PM.png",
+            "title": "Sourcemap alignment issue?",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U18BAPQ82",
+            "editable": false,
+            "size": 66943,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F4A22GXA9\/pasted_image_at_2017_02_24_01_10_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F4A22GXA9\/download\/pasted_image_at_2017_02_24_01_10_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4A22GXA9-7fd6fe6911\/pasted_image_at_2017_02_24_01_10_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4A22GXA9-7fd6fe6911\/pasted_image_at_2017_02_24_01_10_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4A22GXA9-7fd6fe6911\/pasted_image_at_2017_02_24_01_10_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 242,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4A22GXA9-7fd6fe6911\/pasted_image_at_2017_02_24_01_10_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 280,
+            "original_h": 417,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/andrew.pye\/F4A22GXA9\/pasted_image_at_2017_02_24_01_10_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F4A22GXA9-13512377c2",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc49UVNWBU",
+                "created": 1487934760,
+                "timestamp": 1487934760,
+                "user": "U18BAPQ82",
+                "is_intro": true,
+                "comment": "Hi guys! Couple of debugging questions from trying to track down a memory leak in one of our apps:\n\n1) Has anybody seen chrome die when processing a memory profile after stopping recording? It does it for me on the app in question, but not on other ember apps.\n\n2) Debugging the app manually is nigh on impossible because the line numbers in the sources panel are out of alignment (see screen grab). If I drop a breakpoint in, when execution pauses it's actually executing a different line to the one devtools shows it to be on. Any thoughts?",
+                "channel": ""
+            }
+        },
+        "user": "U18BAPQ82",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "andrew.pye",
+        "bot_id": null,
+        "ts": "1487934761.000855"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "fwiw, in development what I do is that I disable babel",
+        "ts": "1487940068.000856"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and disable sourcemaps too",
+        "ts": "1487940076.000857"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "so I get ES6 code that runs perfectly in chrome and I'm free of the overhead of sourcemaps",
+        "ts": "1487940102.000858"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and it's ocasional errors",
+        "ts": "1487940106.000859"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "```\nlet babelConfig = {};\n\nif (environment === 'development') {\n  babelConfig = {\n    blacklist: [\n      'es6.arrowFunctions',\n      'es6.blockScoping',\n      'es6.classes',\n      'es6.constants',\n      'es6.destructuring',\n      'es6.forOf',\n      'es6.parameters',\n      'es6.properties.computed',\n      'es6.properties.shorthand',\n      'es6.spread',\n      'es6.tailCall',\n      'es6.templateLiterals',\n      'es6.regex.unicode',\n      'es6.regex.sticky',\n      'regenerator'\n    ]\n  };\n}\n\nmodule.exports = function(defaults) {\n  let app = new EmberApp(defaults, {\n    babel: babelConfig\n  });\n}\n```",
+        "ts": "1487940176.000860"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "this will disable all babel transformations except modules",
+        "ts": "1487940194.000861"
+    },
+    {
+        "type": "message",
+        "user": "U18BAPQ82",
+        "text": "<@U040MK408> Thanks for the tip! Here's a stupid one I should've mentioned originally - the code in question is in an addon. I tried your suggestion on the host app but it didn't seem to have any effect...",
+        "ts": "1487941254.000862"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "ahh",
+        "ts": "1487941269.000863"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "yes",
+        "ts": "1487941270.000864"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it doesn't affect addons code for now",
+        "ts": "1487941281.000865"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I have an RFC for that tho",
+        "ts": "1487941286.000866"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<https:\/\/github.com\/ember-cli\/rfcs\/pull\/89>",
+        "attachments": [
+            {
+                "text": "rfcs - RFCs for changes to ember-cli",
+                "fallback": "rfcs - RFCs for changes to ember-cli",
+                "from_url": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/89",
+                "title": "Make addons honour app&#39;s transpilation by default by cibernox · Pull Request #89 · ember-cli\/rfcs · GitHub",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487941306.000867"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "the initial part of this was merged last week: <https:\/\/github.com\/ember-cli\/rfcs\/pull\/95>",
+        "attachments": [
+            {
+                "text": "rfcs - RFCs for changes to ember-cli",
+                "fallback": "rfcs - RFCs for changes to ember-cli",
+                "from_url": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/95",
+                "title": "Standarize targets by cibernox · Pull Request #95 · ember-cli\/rfcs · GitHub",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487941342.000869"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and Robert Jackson is working on the babel6 transition",
+        "ts": "1487941362.000871"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "once that is done, babel6 could start honoring the transpilation options defined by your targets",
+        "ts": "1487941391.000872"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and if in development you define that you only support chrome you will get full 2017 code",
+        "ts": "1487941429.000873"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "thanks to `babel-preset-env`",
+        "ts": "1487941448.000874"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "not that it helps now, but future is brighter on this",
+        "ts": "1487941466.000875"
+    },
+    {
+        "type": "message",
+        "user": "U18BAPQ82",
+        "text": "Hahah, I look forward to that brighter future! Anything I can do for the time being? The addon is one of our own so I can change it - I just tried the babel settings above in it but the problem was still there",
+        "ts": "1487942233.000876"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<@U04BD6KB1> sounds good 2.2",
+        "ts": "1487950816.000877"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "for those struggling with relationships not being dirtied <https:\/\/github.com\/danielspaniel\/ember-data-change-tracker>",
+        "attachments": [
+            {
+                "title": "GitHub - danielspaniel\/ember-data-change-tracker: extending ember data to track and rollback changes including objects and associations",
+                "title_link": "https:\/\/github.com\/danielspaniel\/ember-data-change-tracker",
+                "text": "ember-data-change-tracker - extending ember data to track and rollback changes including objects and associations",
+                "fallback": "GitHub - danielspaniel\/ember-data-change-tracker: extending ember data to track and rollback changes including objects and associations",
+                "from_url": "https:\/\/github.com\/danielspaniel\/ember-data-change-tracker",
+                "service_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "service_name": "github.com",
+                "id": 1
+            }
+        ],
+        "ts": "1487962612.000878"
+    }
+]

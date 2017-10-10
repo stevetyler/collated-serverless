@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NNSV1FE|roncooper> shared a file: <https:\/\/emberlondon.slack.com\/files\/roncooper\/F49MNP29E\/Liveedu_tv|Liveedu.tv>",
+        "file": {
+            "id": "F49MNP29E",
+            "created": 1488029432,
+            "timestamp": 1488029514,
+            "name": "Liveedu_tv",
+            "title": "Liveedu.tv",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U1NNSV1FE",
+            "editable": true,
+            "size": 603,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F49MNP29E\/Liveedu_tv?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F49MNP29E\/download\/Liveedu_tv?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/roncooper\/F49MNP29E\/Liveedu_tv",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F49MNP29E-db71260b29",
+            "preview": "<document><p>We can proudly say that we launched redesigned website.<\/p><p>Now you can learn and follow your favorite livestreamers on<\/p><p>their path of making interesting tutorials about programming languages.<\/p><p>Learn to be a softver developer on LiveEdu :)<\/p><\/document>",
+            "updated": 1488029514,
+            "editor": "U1NNSV1FE",
+            "last_editor": "U1NNSV1FE",
+            "state": "locked",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "rage",
+                    "users": [
+                        "U3W7SH77W",
+                        "U47NR1DDM"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U1NNSV1FE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "roncooper",
+        "bot_id": null,
+        "ts": "1488029474.000880"
+    }
+]

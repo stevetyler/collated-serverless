@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U4BUULGQK",
+        "text": "<@U4BUULGQK|srsgores> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488369138.000932"
+    },
+    {
+        "type": "message",
+        "user": "U4BUULGQK",
+        "text": "Hey guys: I'm a Canadian ember developer, and I will be in London from March 3-7.  Are there any events in London anyone can recommend?",
+        "ts": "1488369249.000933"
+    },
+    {
+        "type": "message",
+        "user": "U14KVFYS3",
+        "text": "It’s a small window – the Ember London meetups and project nights typically take place on the second and third Thursday of each month",
+        "ts": "1488369658.000934"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "The meetup will be the 9th",
+        "ts": "1488377305.000935"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I don't think there is anything before",
+        "ts": "1488377326.000936"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "there is surely some generic JS ones",
+        "ts": "1488377335.000937"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i think its the 8th this month",
+        "ts": "1488377394.000938"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "ha",
+        "ts": "1488377395.000939"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "just to add to the confusion :stuck_out_tongue:",
+        "ts": "1488377399.000940"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237900450\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Ember London",
+                "title_link": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237900450\/",
+                "text": "Line-up: Improving the UX of Ember based applications is the developer's jobKuba Niechciał The Art of Mastering EmberLaura Lebovic Higher Order ComponentsMiguel Camba --- New Venue! Please note this",
+                "fallback": "Meetup: Ember London",
+                "thumb_url": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/photos\/event\/1\/f\/2\/e\/highres_452047982.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237900450\/",
+                "thumb_width": 1200,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/s\/img\/144395054627769971357\/logo\/swarm\/m_swarm_120x120.png",
+                "id": 1
+            }
+        ],
+        "ts": "1488377412.000941"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "crap",
+        "ts": "1488379328.000943"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I have one day less than I thought to prepare my talk",
+        "ts": "1488379339.000944"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "ah no",
+        "ts": "1488379349.000945"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it's the 9th",
+        "ts": "1488379351.000946"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "i'm on schedule",
+        "ts": "1488379361.000947"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U040MK408> and now it's the 8th again",
+        "ts": "1488379723.000948"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "&gt; crap\n&gt; I have one day less than I thought to prepare my talk",
+        "ts": "1488379758.000949"
+    },
+    {
+        "type": "message",
+        "user": "U4BUULGQK",
+        "text": "Aww man, why'd it have to be the day after I leave? :\/",
+        "ts": "1488391711.000950",
+        "reactions": [
+            {
+                "name": "pensive",
+                "users": [
+                    "U03V8V08M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U4BUULGQK",
+        "text": "Well, 2 days",
+        "ts": "1488391737.000951"
+    }
+]

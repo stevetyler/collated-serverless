@@ -1,0 +1,321 @@
+[
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<!here|@here> looking forward to seeing y’all this evening <https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237130214\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Ember London",
+                "title_link": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237130214\/",
+                "text": "Community Show &amp; Tell Edition This is your opportunity to demo your work to the community — no preparation required :sunglasses: Whether it be your first Ember app, an addon you’ve contributed to, your comp",
+                "fallback": "Meetup: Ember London",
+                "thumb_url": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/photos\/event\/1\/f\/2\/e\/highres_452047982.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237130214\/",
+                "thumb_width": 1200,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/s\/img\/144395054627769971357\/logo\/swarm\/m_swarm_120x120.png",
+                "id": 1
+            }
+        ],
+        "ts": "1486633256.000483",
+        "reactions": [
+            {
+                "name": "sharkdance",
+                "users": [
+                    "U040MK408",
+                    "U09ABGTUJ",
+                    "U14KVFYS3",
+                    "U09L89DDM",
+                    "U04BE0ELZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U05485UQL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Don’t worry if you’ve not RSVP’d yet, we can accommodate you",
+        "ts": "1486633275.000485",
+        "reactions": [
+            {
+                "name": "emberlondon",
+                "users": [
+                    "U043951H9",
+                    "U1AGPQ6BS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "is there pizza?",
+        "ts": "1486633296.000489"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "hahaha",
+        "ts": "1486633299.000490"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "xD",
+        "ts": "1486633299.000491"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "As mentioned in our email, it’s a Show &amp; Tell Spectacular",
+        "ts": "1486633312.000492"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "so get your demos ready",
+        "ts": "1486633321.000494"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "(looking at you, ember-power-calendar)",
+        "edited": {
+            "user": "U03V8V08M",
+            "ts": "1486633331.000000"
+        },
+        "ts": "1486633327.000495"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "ok ok",
+        "ts": "1486633335.000497"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'll prepare something",
+        "ts": "1486633344.000498"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "will be recorded?",
+        "ts": "1486633354.000499"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "there will be :pizza:, :beer: and soft drinks \/ water \/ sparkling \/ tea \/ coffee",
+        "ts": "1486633379.000500",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U09ABGTUJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sharkdance",
+                "users": [
+                    "U09ABGTUJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U040MK408> yup, Pusher are providing pro recording for every event now",
+        "ts": "1486633434.000501",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U3X3283L6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "does anyone have a new macbook and require an adapter?",
+        "ts": "1486633458.000502"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i think we even have prosecco",
+        "ts": "1486633540.000505",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U09ABGTUJ",
+                    "U06BGNMBL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U1AGPQ6BS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "&gt; does anyone have a new macbook and require an adapter?\nvery good point! I must add this to the speaker guidelines",
+        "ts": "1486633606.000507"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "or buy an adapter",
+        "ts": "1486633656.000508"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "we have the new ones here so can pull together an adapter for tonight if needed",
+        "ts": "1486634142.000515"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I've never been to you new offices actually",
+        "ts": "1486634852.000516"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I missed that project night",
+        "ts": "1486634860.000517"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "we’ve moved again",
+        "ts": "1486634893.000518"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "in to our final office",
+        "ts": "1486634896.000519"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<https:\/\/www.google.co.uk\/maps\/search\/1+Queenhithe,+London\/@51.5044484,-0.1056524,14z?hl=en>",
+        "ts": "1486634912.000520"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "swish",
+        "ts": "1486635129.000521"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "pretty easy to get there",
+        "ts": "1486635253.000522"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "yep, if I squint it's almost on the way home",
+        "ts": "1486635627.000523"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "dare I ask what happened to sapient? :wink:",
+        "ts": "1486635676.000524"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I wish I could go :disappointed:",
+        "ts": "1486640870.000525"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "definetly need to move my boxing lessons to tuesdays",
+        "ts": "1486640880.000526"
+    },
+    {
+        "type": "message",
+        "user": "U044QMK6K",
+        "text": "<@U047GTU64> where do you box?",
+        "ts": "1486646092.000527"
+    },
+    {
+        "type": "message",
+        "user": "U04134XGE",
+        "text": "oh, new location, interesting",
+        "ts": "1486647493.000528"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I got another RFC in the final comment period!",
+        "ts": "1486681609.000531"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<https:\/\/github.com\/ember-cli\/rfcs\/pull\/95>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Standarize targets by cibernox · Pull Request #95 · ember-cli\/rfcs · GitHub",
+                "title_link": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/95",
+                "text": "rendered",
+                "fallback": "GitHub: Standarize targets by cibernox · Pull Request #95 · ember-cli\/rfcs",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/265339?v=3&s=400",
+                "from_url": "https:\/\/github.com\/ember-cli\/rfcs\/pull\/95",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1486681610.000532"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "who wants `eslint-plugin-compat` and `babel-preset-env`?",
+        "ts": "1486681650.000534",
+        "reactions": [
+            {
+                "name": "hand::skin-tone-3",
+                "users": [
+                    "U040MK408"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

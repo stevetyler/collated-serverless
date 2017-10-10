@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "Peeps, a question about Broccoli. Let's see if somebody can kindly shed some light on this for me",
+        "ts": "1484654866.000316"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "My understanding is that using strings to refer to Broccoli nodes is deprecated, and we should instead use broccoli-source. Is this actually the case?",
+        "ts": "1484654879.000317"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "If this is the case, why is broccoli-source a plugin, instead of being bundled with Broccoli?",
+        "ts": "1484654885.000318"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "the few times I used broccoli I referred to the trees by the name of the folder, so that being deprecated are news to me",
+        "ts": "1484673934.000319"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "yeah, it’s confusing, because all examples use that",
+        "ts": "1484674874.000320"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "however, there’s this comment in <https:\/\/www.npmjs.com\/package\/broccoli-source>",
+        "attachments": [
+            {
+                "service_name": "npm",
+                "title": "broccoli-source",
+                "title_link": "https:\/\/www.npmjs.com\/package\/broccoli-source",
+                "text": "Broccoli plugin for referring to source directories on the file system",
+                "fallback": "npm: broccoli-source",
+                "thumb_url": "https:\/\/www.npmjs.com\/static\/images\/touch-icons\/open-graph.png",
+                "from_url": "https:\/\/www.npmjs.com\/package\/broccoli-source",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.npmjs.com\/static\/images\/touch-icons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484674884.000321"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "```\n\/\/ Refers to the .\/lib directory on disk, and watches it. \nvar lib = new WatchedDir('lib');\n\/\/ Note: this is equivalent to the deprecated plain-string syntax: \n\/\/var lib = ‘lib’;\n```",
+        "ts": "1484674899.000323"
+    }
+]

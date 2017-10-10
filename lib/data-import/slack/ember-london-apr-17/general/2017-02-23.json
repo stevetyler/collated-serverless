@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": ":raised_hands:",
+        "ts": "1487839796.000836"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "nice",
+        "ts": "1487844222.000837"
+    },
+    {
+        "type": "message",
+        "user": "U044QMK6K",
+        "text": "I’ve been using <http:\/\/appsignal.com|appsignal.com> for my Elixir\/Phoenix app and found that pretty nice",
+        "ts": "1487845626.000840"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "my peeps using node js",
+        "ts": "1487845825.000841"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "what's your test framework of choice and why?",
+        "ts": "1487845830.000842"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm testing an AWS lambda function",
+        "ts": "1487845837.000843"
+    },
+    {
+        "user": "U499V8X9R",
+        "text": "<@U499V8X9R|michael.henley> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487850373.000844"
+    },
+    {
+        "type": "message",
+        "user": "U04TVTLQ8",
+        "text": "We use Buster. I really like it",
+        "ts": "1487850684.000845"
+    },
+    {
+        "type": "message",
+        "user": "U04TVTLQ8",
+        "text": "Anyone seeing memory leaks in ember-concurrency? Seems like task objects might not be destroyed until owner is destroyed. Not good for tasks running on services",
+        "ts": "1487850809.000846"
+    },
+    {
+        "type": "message",
+        "user": "U1VLX52AF",
+        "text": "Tired of making a small Web applications? Here is the opportunity to do big Web development.\nMake a big web-site (Bank). HTML+CSS+JS",
+        "ts": "1487900658.000847"
+    },
+    {
+        "type": "message",
+        "user": "U1VLX52AF",
+        "text": "<https:\/\/www.liveedu.tv\/gorbunovv\/ROrXp-make-a-big-web-site-bank-htmlcssjs\/7VKnk-make-a-big-web-site-bank-htmlcssjs-3\/>",
+        "attachments": [
+            {
+                "service_name": "LiveEdu.tv",
+                "title": "Watch People Code Products Live and Learn Programming - LiveEdu.tv",
+                "title_link": "https:\/\/www.liveedu.tv\/gorbunovv\/ROrXp-make-a-big-web-site-bank-htmlcssjs\/7VKnk-make-a-big-web-site-bank-htmlcssjs-3\/",
+                "text": "LiveEdu is an interactive social coding platform where you can watch professionals code in real time. Visit website, meet coders and learn programming.",
+                "fallback": "LiveEdu.tv: Watch People Code Products Live and Learn Programming - LiveEdu.tv",
+                "image_url": "https:\/\/www.liveedu.tv\/static\/img\/default.jpg",
+                "from_url": "https:\/\/www.liveedu.tv\/gorbunovv\/ROrXp-make-a-big-web-site-bank-htmlcssjs\/7VKnk-make-a-big-web-site-bank-htmlcssjs-3\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 90195,
+                "service_icon": "https:\/\/www.liveedu.tv\/static\/img\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1487900671.000848"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "Anyone notice this in the Typescript 2.2 release notes:",
+        "ts": "1487905665.000850"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "&gt; We’ve always meant for TypeScript to support the JavaScript patterns you use no matter what style, library, or framework you prefer. Part of meeting that goal involves having TypeScript more deeply understand code as it’s written today. With TypeScript 2.2, we’ve worked to make the language understand the mixin pattern.\n\n&gt; We made a few changes that involved loosening some restrictions on classes, as well as adjusting the behavior of how intersection types operate. Together, these adjustments actually allow users to express mixin-style classes in ES2015, where a class can extend anything that constructs some object type. This can be used to bridge ES2015 classes with APIs like Ember.Object.extend.",
+        "edited": {
+            "user": "U04BD6KB1",
+            "ts": "1487905689.000000"
+        },
+        "ts": "1487905669.000851"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "Seems like Typescript in Ember just got easier but I haven't fully grokked the full impact of this",
+        "ts": "1487905724.000853"
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "hello all",
+        "ts": "1486981484.000560"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "is anyone here using ember-cli + github pages?",
+        "ts": "1486981493.000561"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I just bought a domain and an SSL certificate for the site that I'm serving through github pages",
+        "ts": "1486981510.000562"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm guessing  that in order to add the certificate to the site, I need to put the pem file on the repo?",
+        "ts": "1486981531.000563"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "lately I'm using <http:\/\/pagefronthq.com|pagefronthq.com>",
+        "ts": "1486981809.000564"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "dead simple to use",
+        "ts": "1486981820.000565"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "`ember deploy &lt;environment&gt;` done",
+        "ts": "1486981841.000566"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "is that where you're hosting your blog?",
+        "ts": "1486981854.000567"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "not my blog, because it's not ember",
+        "ts": "1486981864.000568"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but it's where I host my ember things",
+        "ts": "1486981876.000569"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "including silly demos that I want to share",
+        "ts": "1486981896.000570"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm just looking for something cheap-to-free to host my app",
+        "ts": "1486981915.000571"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "that supports HTTPS",
+        "ts": "1486981922.000572"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "and me giving it a custom domain",
+        "ts": "1486981926.000573"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "hmm, there doesn't seem to be any info on pricing",
+        "ts": "1486981928.000574"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "but looks really cool",
+        "ts": "1486981943.000575"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U047GTU64> S3 + Cloudfront + Certificate manager is a solid combo but certainly AWS centric.",
+        "ts": "1486982190.000576",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0C5RUAQ4",
+                    "U047GTU64"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it's free",
+        "ts": "1486982265.000579"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I have custom domains: <http:\/\/www.ember-power-select.com>",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1486982292.000000"
+        },
+        "ts": "1486982281.000580"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "https should be possible",
+        "ts": "1486982310.000582"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "why is ur blog not in ember though :troll: ?",
+        "ts": "1486982336.000583"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "found something you're happier with?",
+        "ts": "1486982343.000584"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "It is possible: <https:\/\/www.ember-basic-dropdown.com\/>",
+        "ts": "1486982348.000585"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "my blog? Because it's static",
+        "ts": "1486982357.000586"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": ":joy:",
+        "ts": "1486982358.000587"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it's a plain old jekyll",
+        "ts": "1486982376.000588"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "i love the demos on the top left of your ember plugins <@U040MK408> :joy: they're freaking awesome",
+        "ts": "1486982407.000589"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'll give pagefront a try if DNS Simple doesn't come back to me",
+        "ts": "1486982411.000590"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<@U0C5RUAQ4> confession: it's the first thing I do on every page",
+        "ts": "1486982445.000591"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "easter-egg centric development",
+        "ts": "1486982454.000592"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "haha, that's awesome",
+        "ts": "1486982469.000593"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I need to create a new one for the next one",
+        "ts": "1486982498.000594"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "i'm running our of colors",
+        "ts": "1486982535.000595"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "i think I'm going purple for the next",
+        "ts": "1486982551.000596"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "bootstrap-purple: <http:\/\/getbootstrap.com\/>",
+        "attachments": [
+            {
+                "title": " Bootstrap · The world's most popular mobile-first and responsive front-end framework. ",
+                "title_link": "http:\/\/getbootstrap.com\/",
+                "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+                "fallback": " Bootstrap · The world's most popular mobile-first and responsive front-end framework. ",
+                "from_url": "http:\/\/getbootstrap.com\/",
+                "service_icon": "http:\/\/getbootstrap.com\/favicon.ico",
+                "service_name": "getbootstrap.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486982580.000597"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "also I need to extract the to addons the shared components, like the tabs with template\/css\/js\/live-demo",
+        "ts": "1486982629.000599"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm pro easter eggs",
+        "ts": "1486982702.000600"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "theres an ember addon specifically for that too",
+        "ts": "1486982710.000601"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "<@U047GTU64> which one?",
+        "ts": "1486983479.000602"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<https:\/\/github.com\/notmessenger\/ember-konami>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "notmessenger\/ember-konami",
+                "title_link": "https:\/\/github.com\/notmessenger\/ember-konami",
+                "text": "ember-konami - Ember CLI Addon to provide Konami-code activated easter eggs to Ember applications",
+                "fallback": "GitHub: notmessenger\/ember-konami",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/435544?v=3&s=400",
+                "from_url": "https:\/\/github.com\/notmessenger\/ember-konami",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1486983590.000603",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0C5RUAQ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "cornify :heart:",
+        "ts": "1486984691.000605"
+    }
+]

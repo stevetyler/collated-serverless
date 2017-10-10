@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "morning all. Does mirage work on twiddle? Trying to reproduce my modal issue as a twiddle but getting errors when I add in mirage as an addon",
+        "ts": "1489741769.491493"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "<https:\/\/ember-twiddle.com\/eedfd390d8394d54d5bfd0ed988a5d0f>",
+        "attachments": [
+            {
+                "title": "Ember Twiddle",
+                "title_link": "https:\/\/ember-twiddle.com\/eedfd390d8394d54d5bfd0ed988a5d0f",
+                "text": "A web-based Ember.js code sharing tool that follows ember-cli's conventions.",
+                "fallback": "Ember Twiddle",
+                "from_url": "https:\/\/ember-twiddle.com\/eedfd390d8394d54d5bfd0ed988a5d0f",
+                "service_icon": "http:\/\/assets.ember-twiddle.com\/favicon-c53354b6e35d20e40c24c57b2504c321.ico",
+                "service_name": "ember-twiddle.com",
+                "id": 1
+            }
+        ],
+        "ts": "1489745873.745165"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "this is a twiddle linked on the mirage github repo, I assume you could just clone that for starters",
+        "ts": "1489745902.753666"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "Hello London. I'm using sweet alerts in my current app and am actually writing tests for it. Unfortunately, it looks like the modal is being put somewhere in the dom where `find` cannot find it. Anyone encountered this sort of thing before and have any tips?",
+        "ts": "1489594234.853998"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "hey llama for our modals, we’ve had to use Ember.$() instead of find",
+        "ts": "1489594313.900664"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "oo - I'll have a play",
+        "ts": "1489594326.908100"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "these test things look useful. Wish I'd had them from the start of this 18month project.",
+        "ts": "1489594407.956517"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "would make these last few weeks of changes a lot less stressful",
+        "ts": "1489594419.963534"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "huzzah! - I think `Ember.$` has worked.",
+        "ts": "1489594450.981329"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "onto the next bug",
+        "ts": "1489594454.983533"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "thanks <@U043951H9>",
+        "ts": "1489594457.986090"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<@U4F8TFHQ9> you might want to check <https:\/\/github.com\/cibernox\/ember-native-dom-helpers>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "cibernox\/ember-native-dom-helpers",
+                "title_link": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers",
+                "text": "ember-native-dom-helpers - Test helpers for your integration tests that fire native events",
+                "fallback": "GitHub: cibernox\/ember-native-dom-helpers",
+                "from_url": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/265339?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489595013.310714"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "talking of which, if anyone is interested, this is a tentative API for the grand testing unification",
+        "ts": "1489595041.327102"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<https:\/\/github.com\/cibernox\/ember-native-dom-helpers\/pull\/38\/files>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Acceptance test tentative API by cibernox · Pull Request #38 · cibernox\/ember-native-dom-helpers",
+                "title_link": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers\/pull\/38\/files",
+                "text": "This PR is opened with a failing test that demonstrates the tentative API for acceptance test, including an example of asserting transient loading substates.",
+                "fallback": "GitHub: Acceptance test tentative API by cibernox · Pull Request #38 · cibernox\/ember-native-dom-helpers",
+                "from_url": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers\/pull\/38\/files",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/265339?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489595042.327281"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "oo - that looks very useful.",
+        "ts": "1489595163.399434"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "Think I heard about that on Ember weekend",
+        "ts": "1489595174.405222"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "yep, it was covered",
+        "ts": "1489595187.413348"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'm going to work on the acceptance tests now that we can have async\/await thanks to babel6",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1489595216.000000"
+        },
+        "ts": "1489595202.422533"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "I think I _may_ be bumping up against at now. I can `click` my modal but I'm not convinced the callback is being called and therefore my model being deleted.",
+        "ts": "1489596014.903304"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "hmm. Actually, I'm going to say that it's promises not resolving before my `assert`.",
+        "ts": "1489596178.998643"
+    },
+    {
+        "type": "message",
+        "user": "U4F8TFHQ9",
+        "text": "so sweet alerts take a function to run when buttons are clicked. Looks like this function is not being called in the tests. I do a `click()` and a `andThen()`. Is there any way to wait for even more things to resolve?",
+        "ts": "1489596590.244945"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Interesting tidbit from Godfrey's PR:\n&gt; You can already render a DOM node today. e.g. if a helper or property lookup returns a DOM node, it already works",
+        "ts": "1489608925.007878"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Never even considered returning nodes from props of helpers. Could be some interesting use cases. ",
+        "edited": {
+            "user": "U03V8V08M",
+            "ts": "1489608978.000000"
+        },
+        "ts": "1489608961.026306"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it is supported, but hacky AF",
+        "ts": "1489615052.874708"
+    }
+]

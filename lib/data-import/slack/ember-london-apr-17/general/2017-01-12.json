@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U3QKAAXHA",
+        "text": "<@U3QKAAXHA|fimietta> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484215012.000288"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "anyone looped though ls results in aws commands like `aws s3 ls`?",
+        "ts": "1484238962.000289"
+    },
+    {
+        "user": "U3QR6E77F",
+        "text": "<@U3QR6E77F|thomcowell> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484239668.000290"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "I'm getting an uncaught Ember Error that states: `Assertion Failed: Cannot call 'Ember.get' with an empty string`. No line number, very little to go off of. Anyone have any troubleshooting ideas?",
+        "edited": {
+            "user": "U04BD6KB1",
+            "ts": "1485728310.000000"
+        },
+        "ts": "1485728296.000376"
+    }
+]

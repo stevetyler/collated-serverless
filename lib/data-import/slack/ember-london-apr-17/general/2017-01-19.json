@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "Nice, the so called glimmer3 just landed on canary",
+        "ts": "1484816969.000325",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U047GTU64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "now the VM in glimmer is a Binary VM",
+        "ts": "1484817057.000326"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<@U040MK408> where can I read the new features glimmer3 brings?",
+        "ts": "1484821586.000327"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "the binary VM only",
+        "ts": "1484821618.000328"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and perhaps this optimization too: <https:\/\/github.com\/tildeio\/glimmer\/pull\/392>",
+        "ts": "1484821648.000329"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "in short, they keep working on making the VM more efficient and templates smaller",
+        "ts": "1484821666.000330"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I think that eventually they'd like to make templates be a binary",
+        "ts": "1484821688.000331"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "an `UInt32Array`",
+        "ts": "1484821699.000332"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "in a way that perhaps even glimmer ends up being compiled to WebAssembly or something very low level",
+        "ts": "1484821759.000333"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "oh good to know thanks",
+        "ts": "1484822011.000334"
+    }
+]

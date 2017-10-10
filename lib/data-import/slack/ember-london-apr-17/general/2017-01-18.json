@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U09CS0TJ9",
+        "text": "Hi guys, I demoed my Collated app briefly at the meet-up a few months ago and I’ve now got it working with our Slack team at <http:\/\/collated.net\/Ember-London>. Any Slack messages in <#C03SSL0GP|general> with links in them will be posted there for archiving and commenting. Hope it can be of use to people and any feedback much appreciated, thanks.",
+        "ts": "1484761410.000324",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040MK408",
+                    "U04BD6KB1",
+                    "U03V8V08M",
+                    "U043AB2QT",
+                    "U047GTU64",
+                    "U0C5RUAQ4",
+                    "U04BE0ELZ",
+                    "U043951H9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "sharkdance",
+                "users": [
+                    "U043951H9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tomster",
+                "users": [
+                    "U05485UQL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

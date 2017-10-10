@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "hello folks, just run across a problem whilst trying to upgrade ember to the latest version (coming from 2.3.x). I’ve got as far as 2.8.x and discovered that a view called application.js no longer applies a `className` to the first `div` in the dom…which is a problem because I really need to set 100% height on it. I see it has been discussed at length here:\n<https:\/\/github.com\/emberjs\/ember.js\/issues\/11486>\n\nbut just wondering if anyone has any other suggestions or any tips on how to handle this one? thanks in advance!",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Ember 1.13 How to add classes to the root view? · Issue #11486 · emberjs\/ember.js · GitHub",
+                "title_link": "https:\/\/github.com\/emberjs\/ember.js\/issues\/11486",
+                "text": "The following was the way to style the root ember-view of an app <http:\/\/emberjs.jsbin.com\/yasukevoni\/1\/edit?html,js,console,output> in Ember 1.13 Now Views are deprecated and I tried to follow the ...",
+                "fallback": "GitHub: Ember 1.13 How to add classes to the root view? · Issue #11486 · emberjs\/ember.js",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/399150?v=3&s=400",
+                "from_url": "https:\/\/github.com\/emberjs\/ember.js\/issues\/11486",
+                "thumb_width": 198,
+                "thumb_height": 198,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1485886868.000392"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "the thing is that views were deprecated for ages and they were removed",
+        "ts": "1485902589.000394"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I just target `body &gt; .ember-view` and that's it",
+        "ts": "1485902604.000395"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "because I know it's going to be my root",
+        "ts": "1485902626.000396"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "thats what I’ve done, thanks!",
+        "ts": "1485902824.000397"
+    }
+]

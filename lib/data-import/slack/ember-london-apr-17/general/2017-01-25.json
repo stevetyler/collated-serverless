@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U3W7SH77W",
+        "text": "<@U3W7SH77W|oherst> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1485336426.000373"
+    },
+    {
+        "user": "U3X3283L6",
+        "text": "<@U3X3283L6|bookercodes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1485365523.000374"
+    }
+]

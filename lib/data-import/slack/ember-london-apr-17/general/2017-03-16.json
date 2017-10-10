@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<https:\/\/thefeedbackloop.xyz\/designing-and-implementing-glimmer-like-a-programming-language\/>",
+        "attachments": [
+            {
+                "service_name": "The Feedback Loop",
+                "title": "Designing and Implementing Glimmer Like a Programming Language",
+                "title_link": "https:\/\/thefeedbackloop.xyz\/designing-and-implementing-glimmer-like-a-programming-language\/",
+                "text": "The first Ember view layer was designed kind of like you'd expect: it treated the \"template language\" as a very specialized external DSL with a decent amount of special syntax. In addition, the implementation was very ad-hoc, which led to a number of persistent, whack-a-mole bugs (including cases where \"string",
+                "fallback": "The Feedback Loop: Designing and Implementing Glimmer Like a Programming Language",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Yehuda Katz",
+                        "short": true
+                    }
+                ],
+                "ts": 1489679599,
+                "from_url": "https:\/\/thefeedbackloop.xyz\/designing-and-implementing-glimmer-like-a-programming-language\/",
+                "service_icon": "https:\/\/thefeedbackloop.xyz\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1489695210.091910"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "&gt; A recent commit to our job queue (\"backburner\") allows it to handle \"smeared\" tasks that can run across multiple turns.",
+        "ts": "1489695244.108034"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Whoa, when did backburner get rewritten in typescript? I need to pay more attention",
+        "ts": "1489695306.138151"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<@U03V8V08M> does kayako use standuply?",
+        "edited": {
+            "user": "U043951H9",
+            "ts": "1484313788.000000"
+        },
+        "ts": "1484313785.000291"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U043951H9>: not heard of it, tell me more",
+        "ts": "1484314220.000293"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<http:\/\/standuply.com\/>",
+        "attachments": [
+            {
+                "service_name": "Standuply - Automated Standups for Slack and Task Trackers",
+                "title": "Automated Standups for Slack and Task Trackers",
+                "title_link": "http:\/\/standuply.com\/",
+                "text": "This bot interviews your team and delivers answers to Slack, Trello and email",
+                "fallback": "Standuply - Automated Standups for Slack and Task Trackers: Automated Standups for Slack and Task Trackers",
+                "thumb_url": "http:\/\/standuply.com\/images\/facebook.jpg",
+                "ts": 1462874801,
+                "from_url": "http:\/\/standuply.com\/",
+                "thumb_width": 771,
+                "thumb_height": 500,
+                "service_icon": "http:\/\/standuply.com\/images\/favicon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484314232.000294"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "lol",
+        "ts": "1484314232.000296"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "your logo is down the bottom",
+        "ts": "1484314239.000297"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Haha!",
+        "ts": "1484314357.000298"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i wonder if it might be another team in the company",
+        "ts": "1484315418.000299"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U040MK408|cibernox> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/cibernox\/F3RFHLJFL\/screen_shot_2017-01-13_at_15.47.32.png|Screen Shot 2017-01-13 at 15.47.32.png> and commented: Yet another one is coming",
+        "file": {
+            "id": "F3RFHLJFL",
+            "created": 1484350747,
+            "timestamp": 1484350747,
+            "name": "Screen Shot 2017-01-13 at 15.47.32.png",
+            "title": "Screen Shot 2017-01-13 at 15.47.32.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U040MK408",
+            "editable": false,
+            "size": 176048,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F3RFHLJFL\/screen_shot_2017-01-13_at_15.47.32.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F3RFHLJFL\/download\/screen_shot_2017-01-13_at_15.47.32.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 127,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 170,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_720.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720_w": 720,
+            "thumb_720_h": 255,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_960.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_960_w": 960,
+            "thumb_960_h": 340,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3RFHLJFL-bc9c5194da\/screen_shot_2017-01-13_at_15.47.32_1024.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 362,
+            "image_exif_rotation": 1,
+            "original_w": 2860,
+            "original_h": 1012,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/cibernox\/F3RFHLJFL\/screen_shot_2017-01-13_at_15.47.32.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F3RFHLJFL-9630097e93",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3RJ34GLV",
+                "created": 1484350747,
+                "timestamp": 1484350747,
+                "user": "U040MK408",
+                "is_intro": true,
+                "comment": "Yet another one is coming",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U03V2PZUB"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U040MK408",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "cibernox",
+        "bot_id": null,
+        "ts": "1484350750.000300"
+    }
+]

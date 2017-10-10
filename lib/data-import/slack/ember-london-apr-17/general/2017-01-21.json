@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "so nice:\n<http:\/\/jsfiddle.net\/Fy8vD\/3041\/>",
+        "attachments": [
+            {
+                "title": "Edit fiddle - JSFiddle",
+                "title_link": "http:\/\/jsfiddle.net\/Fy8vD\/3041\/",
+                "text": "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+                "fallback": "Edit fiddle - JSFiddle",
+                "from_url": "http:\/\/jsfiddle.net\/Fy8vD\/3041\/",
+                "service_icon": "http:\/\/jsfiddle.net\/favicon.png",
+                "service_name": "jsfiddle.net",
+                "id": 1
+            }
+        ],
+        "ts": "1485002948.000369"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<https:\/\/medium.com\/@quantumjs\/combining-webpack-and-typescript-to-publish-component-libraries-over-npm-d22c3201ab22#.pdq5lcq19>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Combining Webpack and TypeScript to publish component libraries over npm",
+                "title_link": "https:\/\/medium.com\/@quantumjs\/combining-webpack-and-typescript-to-publish-component-libraries-over-npm-d22c3201ab22#.pdq5lcq19",
+                "text": "In this article: I will show you a seamless workflow to share your Typescript component library over npm. I will teach you time-saving techniques to avoid writing TypeScript definition files…",
+                "fallback": "Medium: Combining Webpack and TypeScript to publish component libraries over npm",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*vVXSfhk22PbihpQBIM1h0Q.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1485009628,
+                "from_url": "https:\/\/medium.com\/@quantumjs\/combining-webpack-and-typescript-to-publish-component-libraries-over-npm-d22c3201ab22#.pdq5lcq19",
+                "image_width": 576,
+                "image_height": 250,
+                "image_bytes": 210548,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*W0nmth_X8nFKjn6BZ388UQ.png",
+                "id": 1
+            }
+        ],
+        "ts": "1485009738.000371"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Hey guys, just been asked this by another developer:\n&gt; A potential blocker to ember is number of developers either with experience or willing to learn. Any ideas on how to counter that?",
+        "ts": "1487756120.000738"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "We're discussing what to use to build a new f\/e project in, angular 2, ember, react all on the table. I smashed out an ember prototype over a weekend that they liked.",
+        "ts": "1487756160.000739"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "<http:\/\/www.jasonbock.net\/jb\/News\/Item\/7c334037d1a9437d9fa6506e2f35eaac>",
+        "ts": "1487756180.000740"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Haha I can already tell I'm going to love this resource <@U045SGGD8>",
+        "ts": "1487756210.000741"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "thanks",
+        "ts": "1487756211.000742"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": ":+1:",
+        "ts": "1487756265.000743"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": ":+1:",
+        "ts": "1487756556.000744"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Is React brown?",
+        "ts": "1487756572.000745"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "or Walnut :stuck_out_tongue_closed_eyes:",
+        "ts": "1487756585.000746"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "As someone who’s been trying to find a perm Ember developers for 8+ months now I’d probably go React for a new project right now to protect against future difficulties in hiring.",
+        "ts": "1487756709.000747"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "If you can hire just great JS engineers and hope they are interested\/capable of learning Ember that’s great but might not always be the case unfortunately :disappointed:",
+        "ts": "1487756739.000748"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Sad times for Ember",
+        "ts": "1487757608.000749"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U04BGLGM3> I've brought 3 remote devs with no prior ember experience into a complex project in the last 6 months and all have gotten up to speed even quicker than I expected. ",
+        "ts": "1487757632.000750"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Yeah I mean LinkedIn doing Ember stuff right now might help things along though but it’s pretty sparse right now",
+        "ts": "1487757657.000751"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "yeah it depends what you’re looking for, London’s a weird one",
+        "ts": "1487757671.000752"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "high cost of living and low salaries",
+        "ts": "1487757677.000753"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Low compared to? :wink:",
+        "ts": "1487757689.000754"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "well, other major cities in the world",
+        "ts": "1487757710.000755"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "I'd say there is a danger in hiring folks who are already strongly affiliated with a different framework ",
+        "ts": "1487757725.000756"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "But that's true universally",
+        "ts": "1487757734.000757"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "If you bring a \"django person\" onto a rails project and they can't fight the instinct to make rails look like django ",
+        "edited": {
+            "user": "U03V8V08M",
+            "ts": "1487758037.000000"
+        },
+        "ts": "1487757764.000758"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Also React etc are enjoying the success of functional programming at the moment",
+        "ts": "1487757769.000759"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Looks like I'll be learning Angular 2",
+        "ts": "1487758035.000761"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Aren’t they going to Angular 4?",
+        "ts": "1487758087.000763"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Haha I don't know. I'll ask.",
+        "ts": "1487758189.000764"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "I’m sure I saw something a month or so ago saying they’re skipping out 3 and going straight to Angular 4 next :slightly_smiling_face:",
+        "ts": "1487758304.000765"
+    },
+    {
+        "type": "message",
+        "user": "U04BGLGM3",
+        "text": "Yes I've seen that.",
+        "ts": "1487758345.000766"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "<@U3DEEE3K5> I would suggest React over Angular, purely because of the crazy directions Angular takes each version release",
+        "ts": "1487760202.000767"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "I would as well for that reason but also due to the biggest current community &amp; ties to functional movement",
+        "ts": "1487760273.000768"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Unless Elm was on the table but that’s a whole other story :joy:",
+        "ts": "1487760297.000769"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "You mean that thing where you write HTML with some funny Javascript\/Yaml looking syntax",
+        "ts": "1487760522.000770"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Aww yeah",
+        "ts": "1487760544.000771"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "After years of ExtJS, I am not sure how we ended up back at Elm",
+        "ts": "1487760565.000772"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "not sure if React is that different though",
+        "ts": "1487760589.000773"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "well I will go with XML over YAML for markup anyday",
+        "ts": "1487760607.000774"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Oh I would but Elm is hardly YAML",
+        "ts": "1487760633.000775"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "As a frontend dev, the view layer is the part I normally care the most about",
+        "ts": "1487760677.000776"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "and tbf it’s not the HTML construction part that makes it exciting for me, it’s the update hierarchy and how the updates flow through",
+        "ts": "1487760690.000777"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "And Elm makes that layer really horrible to work with",
+        "ts": "1487760709.000778"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "I am waiting for a Mustache like view layer for Elm, then I will jump on that train",
+        "edited": {
+            "user": "U0ASPMFPS",
+            "ts": "1487760741.000000"
+        },
+        "ts": "1487760732.000779"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": ":smile:",
+        "ts": "1487760742.000781"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "We have the the same issue at British Gas with regards to Ember devs but this is why we are investing heavily on junior devs",
+        "ts": "1487762429.000782"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "either way, if a dev is not showing willingness to learn, junior or senior, its a red signal",
+        "ts": "1487762517.000783"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "Agreed although there’s plenty to be said about learning Cobol today as a junior developer :smile:",
+        "ts": "1487762586.000784"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "I'm just about to start on a recruitment drive for one junior and one slightly more experienced dev. As much as I'd like to have Ember I suspect that I'll be going for a good JS dev who is willing to cross train into Ember",
+        "ts": "1487762637.000785"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "<@U3DEEE3K5> true but if COBOL is the right solution for a company's problem (maybe unlikely but you never know), then why not if you want a job with them",
+        "ts": "1487762671.000786"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "If I can find a good Ember dev I'm hoping to thrill them with the idea of working with a small startup team to attract them but I'm expecting that to be a hard challenge!",
+        "ts": "1487762713.000787"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "There just aren’t that many ember devs in London I think, and if you’re not willing to go remote it’s probably going to be very hard to compete",
+        "ts": "1487762727.000788"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "True and it was a tongue on cheek extreme example, the sentiment about Embers future needs to improve as a whole though and things like that LinkedIn thing hopefully fuel it",
+        "ts": "1487762729.000789"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "there are 238 people on this slack",
+        "ts": "1487762742.000790"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "<@U47NR1DDM> probably unless you are happy to take on contractors, depends on what sort of team you’re building and what the job is like I guess",
+        "ts": "1487762774.000791"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "and that’s probably within an order of magintude of how many experienced ember devs are in London",
+        "ts": "1487762832.000792"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "obviously not all experienced ember devs in London are on this slack, but also not everyone on this slack is an experienced ember dev either",
+        "ts": "1487762865.000793"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "(or in London for that matter - I’m typing this from France ;)",
+        "edited": {
+            "user": "U045SGGD8",
+            "ts": "1487762883.000000"
+        },
+        "ts": "1487762880.000794",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U3DEEE3K5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "<@U3DEEE3K5> I'd prefer to go down the perm route but I'm, open to options. Remote may be an option as well although I'd not want them too far away as I'd like to meet them every so often. This is my first time hiring Ember devs as I've only been at the company since the start of the year but I'm used to the recruitment lifecycle.",
+        "ts": "1487762911.000796"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "<@U045SGGD8> you can reduce the number by one as I'm definitely not an experience Ember dev!",
+        "ts": "1487762938.000798"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "And then, you have to compete with remote - I find the salary potential for me doing remote work for companies in the US is _extremely_ more competitive than any perm position I even heard of in London pretty much for anything outside of working for a bank",
+        "ts": "1487762978.000799"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "(or management roles)",
+        "ts": "1487763020.000800"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "<@U47NR1DDM> Good luck, it’s been really tricky for us but there’s other considerations with us like the industry which puts a lot of people off so hopefully your mileage will vary :wink:",
+        "ts": "1487763021.000801"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "on the other hand, if you need people on site, it is much easier to find junior devs that know some javascript and train them up",
+        "ts": "1487763060.000802"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I plan to go remote this year",
+        "ts": "1487763066.000803"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and return to Spain",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1487763072.000000"
+        },
+        "ts": "1487763069.000804"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "at some point after summer",
+        "ts": "1487763077.000806"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "You'll find out how I'm getting on in a month or so when my avatar is looking less cheery!",
+        "ts": "1487763150.000807"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "<https:\/\/generalassemb.ly\/> is literally over the road from my office and I've heard good things about them so I'm going to try there as well for a junior, if anybody else has experience with them I'd be interested to hear about it.",
+        "attachments": [
+            {
+                "title": "General Assembly",
+                "title_link": "https:\/\/generalassemb.ly\/",
+                "text": "Master new skills in design, marketing, technology, and data — online or at our campuses around the world.",
+                "fallback": "General Assembly",
+                "image_url": "https:\/\/ga-shop-production-herokuapp-com.global.ssl.fastly.net\/assets\/images\/logo_1200_by_627_1QIVL.jpg",
+                "from_url": "https:\/\/generalassemb.ly\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 32593,
+                "service_icon": "https:\/\/ga-shop-production-herokuapp-com.global.ssl.fastly.net\/assets\/images\/apple-touch-icon_Zb6Ub.png",
+                "service_name": "generalassemb.ly",
+                "id": 1
+            }
+        ],
+        "ts": "1487763204.000808"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "We had a UX Designer for a while with us who’d come through there and the experience was absolutely dreadful although that was probably the person rather than GA but anyway that’s my 2 pennies",
+        "ts": "1487763272.000810"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "Not the start I was hoping for :wink:",
+        "ts": "1487763299.000811"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "<@U47NR1DDM> Have a look at makers academy",
+        "ts": "1487763332.000812"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "<@U03V3P960> thanks, have you hired from there at all?",
+        "ts": "1487763594.000813"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "yes we have one at the moment and he is doing quite well",
+        "ts": "1487763654.000814"
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "too much focus on frameworks\/libraries as opposed to the actual problems companies would like devs to solve for their customers these days. The amount of time I spend everyday talking about why we chose ember instead of angular et al is ridiculous",
+        "ts": "1487764488.000815"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "^ I have seen this too",
+        "ts": "1487764547.000816"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "much as I like ember, it just doesn’t matter",
+        "ts": "1487764558.000817"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "it has advantages, it has disadvantages, some of those might be especially good for your problem space but with the right people you can build whatever you want with pretty much any tech stack",
+        "ts": "1487764600.000818",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03V8V08M",
+                    "U47NR1DDM",
+                    "U044QMK6K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03V8V08M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "beers",
+                "users": [
+                    "U03V8V08M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V3P960",
+        "text": "when you look at an app and can just say what framework it has been built in without looking into the source, then maybe its  worth it :slightly_smiling_face:",
+        "edited": {
+            "user": "U03V3P960",
+            "ts": "1487764748.000000"
+        },
+        "ts": "1487764671.000822"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045SGGD8|alexspeller> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/alexspeller\/F48P1NNAF\/pasted_image_at_2017_02_22_12_58_pm.png|I always have the ember extension installed so the little Tomster lights up :)>",
+        "file": {
+            "id": "F48P1NNAF",
+            "created": 1487764748,
+            "timestamp": 1487764748,
+            "name": "Pasted image at 2017_02_22 12_58 PM.png",
+            "title": "I always have the ember extension installed so the little Tomster lights up :)",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U045SGGD8",
+            "editable": false,
+            "size": 7130,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48P1NNAF\/pasted_image_at_2017_02_22_12_58_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48P1NNAF\/download\/pasted_image_at_2017_02_22_12_58_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48P1NNAF-ed33ac073c\/pasted_image_at_2017_02_22_12_58_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48P1NNAF-ed33ac073c\/pasted_image_at_2017_02_22_12_58_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48P1NNAF-ed33ac073c\/pasted_image_at_2017_02_22_12_58_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 110,
+            "thumb_360_h": 73,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48P1NNAF-ed33ac073c\/pasted_image_at_2017_02_22_12_58_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 110,
+            "original_h": 73,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/alexspeller\/F48P1NNAF\/pasted_image_at_2017_02_22_12_58_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F48P1NNAF-2ff5126342",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045SGGD8",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "alexspeller",
+        "bot_id": null,
+        "ts": "1487764749.000826"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "I didn't know that was an option, I'm not entirely sure how useful it is but I've enabled it anyway :emberlondon:",
+        "ts": "1487765046.000827"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Just in case y’all haven’t been checking <http:\/\/meetup.com|meetup.com>, we have a project night tomorrow evening at the lovely ThoughtBot offices:\n<https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237697778\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Ember London",
+                "title_link": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237697778\/",
+                "text": "BYOP (Bring Your Own Project) Project Nights are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions",
+                "fallback": "Meetup: Ember London",
+                "thumb_url": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/photos\/event\/1\/f\/2\/e\/highres_452047982.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/London-Emberjs-User-Group\/events\/237697778\/",
+                "thumb_width": 1200,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/a248.e.akamai.net\/secure.meetupstatic.com\/s\/img\/144395054627769971357\/logo\/swarm\/m_swarm_120x120.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487766659.000829"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "I miss those project nights",
+        "ts": "1487767213.000831"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "I miss Ember London meetups on a whole",
+        "ts": "1487767225.000832",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04BD6KB1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U03V8V08M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03V8V08M|jgwhite> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/jgwhite\/F48HLN9NU\/screen_shot_2017-02-23_at_06.22.32.png|Screen Shot 2017-02-23 at 06.22.32.png> and commented: Phoenix support is coming to Skylight!",
+        "file": {
+            "id": "F48HLN9NU",
+            "created": 1487830991,
+            "timestamp": 1487830991,
+            "name": "Screen Shot 2017-02-23 at 06.22.32.png",
+            "title": "Screen Shot 2017-02-23 at 06.22.32.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U03V8V08M",
+            "editable": false,
+            "size": 59205,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48HLN9NU\/screen_shot_2017-02-23_at_06.22.32.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48HLN9NU\/download\/screen_shot_2017-02-23_at_06.22.32.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 83,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 111,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48HLN9NU-c2b83933d8\/screen_shot_2017-02-23_at_06.22.32_720.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720_w": 720,
+            "thumb_720_h": 167,
+            "image_exif_rotation": 1,
+            "original_w": 916,
+            "original_h": 212,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/jgwhite\/F48HLN9NU\/screen_shot_2017-02-23_at_06.22.32.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F48HLN9NU-8b5591f5c6",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc48JEKBB3",
+                "created": 1487830991,
+                "timestamp": 1487830991,
+                "user": "U03V8V08M",
+                "is_intro": true,
+                "comment": "Phoenix support is coming to Skylight!",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "sharkdance",
+                    "users": [
+                        "U09ABGTUJ",
+                        "U044QMK6K"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U03V8V08M",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "jgwhite",
+        "bot_id": null,
+        "ts": "1487830993.000835"
+    }
+]

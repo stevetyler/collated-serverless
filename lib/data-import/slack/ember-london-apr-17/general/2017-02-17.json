@@ -1,0 +1,173 @@
+[
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<@U03V8V08M> the new linkedin is using ember-sortable :+1:",
+        "ts": "1487321386.000691"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U043951H9> cool!",
+        "ts": "1487321789.000692"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Also this: <https:\/\/github.com\/jgwhite\/ember-sortable\/issues\/130#issuecomment-280517243>",
+        "attachments": [
+            {
+                "text": "ember-sortable - Sortable UI primitives for Ember.js",
+                "fallback": "ember-sortable - Sortable UI primitives for Ember.js",
+                "from_url": "https:\/\/github.com\/jgwhite\/ember-sortable\/issues\/130#issuecomment-280517243",
+                "title": "passive eventListener issue as of Chrome 56 · Issue #130 · jgwhite\/ember-sortable · GitHub",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487321858.000693",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U047GTU64",
+                    "U043951H9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Big respect to him for reaching out ",
+        "ts": "1487321873.000695"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "hi'yall\n\nso i've spent a big chunk of my day yesterday trying to figure out how i can access the route from an acceptance test.\n\nI used to have this test helper, which (i know i'ts private :pensive: ) accessed and returned the route\/service\/whatever injected in the registry.\n\n```import Ember from 'ember';\n\nexport default Ember.Test.registerHelper('getEmber', function (app, type, name) {\n    return app.__container__.lookup(`${type}:${name}`);\n});\n```\n\nand then in my acceptance test called it using: `getEmber('route', 'application')`\n\nSince i upgraded to 2.11 though, that doesn't seem to work any more and I get;\n```Uncaught Error: Attempting to inject an unknown injection: 'service:-document'```",
+        "ts": "1487330074.000697"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "any pointers to solve this would be amazing",
+        "ts": "1487330093.000698"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "created a small addon yesterday to help making integration tests nicer: <https:\/\/github.com\/cibernox\/ember-native-dom-helpers>",
+        "attachments": [
+            {
+                "title": "GitHub - cibernox\/ember-native-dom-helpers: Test helpers for your integration tests that fire native events",
+                "title_link": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers",
+                "text": "ember-native-dom-helpers - Test helpers for your integration tests that fire native events",
+                "fallback": "GitHub - cibernox\/ember-native-dom-helpers: Test helpers for your integration tests that fire native events",
+                "from_url": "https:\/\/github.com\/cibernox\/ember-native-dom-helpers",
+                "service_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "service_name": "github.com",
+                "id": 1
+            }
+        ],
+        "ts": "1487331457.000699"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "looks really good <@U040MK408>, I gave it a spin earlier",
+        "ts": "1487331491.000701"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "with the blessing or Rober Jackson to be included by default in the ember-cli blueprint",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1487331545.000000"
+        },
+        "ts": "1487331512.000702",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0C5RUAQ4",
+                    "U0L9R72E6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NNSV1FE|roncooper> shared a file: <https:\/\/emberlondon.slack.com\/files\/roncooper\/F46U8QR8T\/Coddr_net_restyle_HTML_CSS_JS|Coddr.net restyle HTML\/CSS\/JS>",
+        "file": {
+            "id": "F46U8QR8T",
+            "created": 1487344472,
+            "timestamp": 1487344612,
+            "name": "Coddr_net_restyle_HTML_CSS_JS",
+            "title": "Coddr.net restyle HTML\/CSS\/JS",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U1NNSV1FE",
+            "editable": true,
+            "size": 428,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F46U8QR8T\/Coddr_net_restyle_HTML_CSS_JS?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F46U8QR8T\/download\/Coddr_net_restyle_HTML_CSS_JS?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/roncooper\/F46U8QR8T\/Coddr_net_restyle_HTML_CSS_JS",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F46U8QR8T-7ecd85c55e",
+            "preview": "<document><p>This website has livestreams of all programming languages.<\/p><p>And you can even chat with livestreamer and ask questions.<\/p><p>Check it out!<\/p><p><a href=\"https:\/\/www.liveedu.tv\/coddr\/\">https:\/\/www.liveedu.tv\/coddr\/<\/a><\/p><\/document>",
+            "updated": 1487344612,
+            "editor": "U1NNSV1FE",
+            "last_editor": "U1NNSV1FE",
+            "state": "locked",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "-1",
+                    "users": [
+                        "U03V2PZUB",
+                        "U04BD6KB1",
+                        "U047GTU64"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "disappointed",
+                    "users": [
+                        "U03V2PZUB"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U1NNSV1FE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "roncooper",
+        "bot_id": null,
+        "ts": "1487344595.000707"
+    },
+    {
+        "user": "U47NR1DDM",
+        "text": "<@U47NR1DDM|tomsinger> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487349438.000710"
+    }
+]

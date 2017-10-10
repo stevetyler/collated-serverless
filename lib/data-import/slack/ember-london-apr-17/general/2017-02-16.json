@@ -1,0 +1,175 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I dont know if babel has a plugin for typescript",
+        "ts": "1487242394.000673"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "but if it does you'd just need to add it and tweak the ember-cli-build a bit I reckon",
+        "ts": "1487242405.000674"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "(could be completely wrong)",
+        "ts": "1487242411.000675"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "so I should emphasize on an a-to-d converter rather than the headphones themselves?",
+        "attachments": [
+            {
+                "fallback": "[February 15th, 2017 2:17 PM] ksnyde: <@U047GTU64> one aspect to consider is where you're sourcing your content ... specifically do you listen to most of your music via a phone, a laptop, or a hifi system (or other analogue source). I guess the last option is pretty much being phased out these days. :slightly_smiling_face: The reason I make this distinction is that these days phone listening is starting to force the wireless headphone onto you. Maybe that's what you want anyway (the convenience is nice) but from a fidelity standpoint the thing to bear in mind is that besides material design the biggest difference in quality if the digital-to-analogue converter built into the wireless can. If you're listening to music primarily off your laptop you can buy really good d-to-a's at a good price but the headphone manufacturers are still getting a lot of extra margin from packaging up the d-to-a benefits in their products. This is no different than what the manufacturers did in the 80's and 90's with high end CD players where the quality difference was primarily that of a good quality d-to-a but in today's world the margin is even greater because the true cost of the d-to-a is so low now.",
+                "ts": "1487168227.000617",
+                "author_subname": "ksnyde",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U047GTU64> one aspect to consider is where you're sourcing your content ... specifically do you listen to most of your music via a phone, a laptop, or a hifi system (or other analogue source). I guess the last option is pretty much being phased out these days. :slightly_smiling_face: The reason I make this distinction is that these days phone listening is starting to force the wireless headphone onto you. Maybe that's what you want anyway (the convenience is nice) but from a fidelity standpoint the thing to bear in mind is that besides material design the biggest difference in quality if the digital-to-analogue converter built into the wireless can. If you're listening to music primarily off your laptop you can buy really good d-to-a's at a good price but the headphone manufacturers are still getting a lot of extra margin from packaging up the d-to-a benefits in their products. This is no different than what the manufacturers did in the 80's and 90's with high end CD players where the quality difference was primarily that of a good quality d-to-a but in today's world the margin is even greater because the true cost of the d-to-a is so low now.",
+                "author_name": "Ken Snyder",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/ksnyde",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/4d8154b3f9ba6f4190483c5231d577d3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0004-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1487168227000617",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1487242484.000676"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm looking for something nice and isolating",
+        "ts": "1487242489.000677"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "Babel doesn't have a plugin for typescript ",
+        "ts": "1487242780.000678"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "Typescript replaces babel ",
+        "ts": "1487242790.000679"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "Or alternatively runs before babel and the babel continues the transpilation",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1487242837.000000"
+        },
+        "ts": "1487242816.000680"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "In short, you can use it but you win very little in terms of type inference because the rest of ember is not typed ",
+        "ts": "1487242905.000682"
+    },
+    {
+        "type": "message",
+        "user": "U0BR1H1FY",
+        "text": "<https:\/\/github.com\/DefinitelyTyped\/DefinitelyTyped\/> has ember.d.ts and ember-test.d.ts ‘s I don’t know how up to date they are though",
+        "attachments": [
+            {
+                "title": "GitHub - DefinitelyTyped\/DefinitelyTyped: The repository for high quality TypeScript type definitions.",
+                "title_link": "https:\/\/github.com\/DefinitelyTyped\/DefinitelyTyped\/",
+                "text": "DefinitelyTyped - The repository for high quality TypeScript type definitions.",
+                "fallback": "GitHub - DefinitelyTyped\/DefinitelyTyped: The repository for high quality TypeScript type definitions.",
+                "from_url": "https:\/\/github.com\/DefinitelyTyped\/DefinitelyTyped\/",
+                "service_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "service_name": "github.com",
+                "id": 1
+            }
+        ],
+        "ts": "1487248321.000683"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I use them",
+        "ts": "1487250139.000685"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "in vscode",
+        "ts": "1487250143.000686"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but very often they are not very useful",
+        "ts": "1487250156.000687"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "because by example `Ember.set(key: String, value: ANY)` is not terribly useful",
+        "ts": "1487250189.000688"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NNSV1FE|roncooper> shared a file: <https:\/\/emberlondon.slack.com\/files\/roncooper\/F473S1C3H\/HTML5_App_Development|HTML5 App Development>",
+        "file": {
+            "id": "F473S1C3H",
+            "created": 1487256670,
+            "timestamp": 1487256724,
+            "name": "HTML5_App_Development",
+            "title": "HTML5 App Development",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U1NNSV1FE",
+            "editable": true,
+            "size": 483,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F473S1C3H\/HTML5_App_Development?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F473S1C3H\/download\/HTML5_App_Development?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/roncooper\/F473S1C3H\/HTML5_App_Development",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F473S1C3H-3e8f69b237",
+            "preview": "<document><p>Being programmer these days is very good paid job.<\/p><p>If you want to become one you can learn any programming language on this website, they even have livestreams.<\/p><p>Check it out here:<\/p><p><a href=\"https:\/\/www.liveedu.tv\/learntoprogram\/videos\/Jj9qP-html5-app-development\">https:\/\/www.liveedu.tv\/learntoprogram\/videos\/Jj9qP-html5-app-development<\/a><\/p><\/document>",
+            "updated": 1487256712,
+            "editor": "U1NNSV1FE",
+            "last_editor": "U1NNSV1FE",
+            "state": "locked",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1NNSV1FE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "roncooper",
+        "bot_id": null,
+        "ts": "1487256728.000689"
+    },
+    {
+        "type": "message",
+        "user": "U3DEEE3K5",
+        "text": "do you work for them?",
+        "ts": "1487259938.000690"
+    }
+]

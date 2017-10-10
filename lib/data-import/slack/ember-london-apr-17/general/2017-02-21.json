@@ -1,0 +1,260 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NNSV1FE|roncooper> shared a file: <https:\/\/emberlondon.slack.com\/files\/roncooper\/F489ZP86N\/Making_joomla_template_for_client|Making joomla template for client>",
+        "file": {
+            "id": "F489ZP86N",
+            "created": 1487689800,
+            "timestamp": 1487689857,
+            "name": "Making_joomla_template_for_client",
+            "title": "Making joomla template for client",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U1NNSV1FE",
+            "editable": true,
+            "size": 296,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F489ZP86N\/Making_joomla_template_for_client?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F489ZP86N\/download\/Making_joomla_template_for_client?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/roncooper\/F489ZP86N\/Making_joomla_template_for_client",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F489ZP86N-4bad7fe4c8",
+            "preview": "<document><p>Learn watching livestreams. Check this out!<\/p><p><a href=\"https:\/\/www.liveedu.tv\/imoli\/\">https:\/\/www.liveedu.tv\/imoli\/<\/a><\/p><div class=\"unfurl-container unfurl-render-pending\"><a class=\"unfurl-placeholder\" href=\"https:\/\/www.liveedu.tv\/imoli\/\">https:\/\/www.liveedu.tv\/imoli\/<\/a><\/div><p><\/p><\/document>",
+            "updated": 1487689853,
+            "editor": "U1NNSV1FE",
+            "last_editor": "U1NNSV1FE",
+            "state": "locked",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1NNSV1FE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "roncooper",
+        "bot_id": null,
+        "ts": "1487689842.000713"
+    },
+    {
+        "type": "message",
+        "user": "U0BR1H1FY",
+        "text": "<@U1NNSV1FE> can you please not post that stuff here.. We are all very capable of finding resources for learning. And I also don’t think ANY of us want to know something about joomla.",
+        "ts": "1487691016.000716",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3W7SH77W",
+                    "U37TYCZSQ",
+                    "U1XB7HR3J",
+                    "U0C5RUAQ4",
+                    "U04BD6KB1",
+                    "U3DEEE3K5",
+                    "U0ASPMFPS"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Hacked account?",
+        "ts": "1487694191.000720"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "we were just talking about this, could it be a bot account?",
+        "ts": "1487694282.000722"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "timestamps on the messages are always roughly the same",
+        "ts": "1487694298.000723"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "I did get a response from someone\/something when I privately asked for this to stop",
+        "ts": "1487696484.000725"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BD6KB1|ksnyde> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/ksnyde\/F47MNJ5G9\/pasted_image_at_2017_02_21_09_02_am.png|interaction>",
+        "file": {
+            "id": "F47MNJ5G9",
+            "created": 1487696610,
+            "timestamp": 1487696610,
+            "name": "Pasted image at 2017_02_21 09_02 AM.png",
+            "title": "interaction",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BD6KB1",
+            "editable": false,
+            "size": 73504,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F47MNJ5G9\/pasted_image_at_2017_02_21_09_02_am.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F47MNJ5G9\/download\/pasted_image_at_2017_02_21_09_02_am.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 104,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 139,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F47MNJ5G9-0760229c46\/pasted_image_at_2017_02_21_09_02_am_720.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720_w": 720,
+            "thumb_720_h": 208,
+            "image_exif_rotation": 1,
+            "original_w": 947,
+            "original_h": 274,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/ksnyde\/F47MNJ5G9\/pasted_image_at_2017_02_21_09_02_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F47MNJ5G9-722635f13c",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04BD6KB1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "ksnyde",
+        "bot_id": null,
+        "ts": "1487696612.000726"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "Its a spam bot, you can see it in the Ember slack channel doing the same kind of thing :confused:",
+        "edited": {
+            "user": "U03V2PZUB",
+            "ts": "1487697321.000000"
+        },
+        "ts": "1487697140.000729"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03V2PZUB|karlfreeman> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/karlfreeman\/F48ACLK7D\/screen_shot_2017-02-21_at_17.12.52.png|Screen Shot 2017-02-21 at 17.12.52.png>",
+        "file": {
+            "id": "F48ACLK7D",
+            "created": 1487697199,
+            "timestamp": 1487697199,
+            "name": "Screen Shot 2017-02-21 at 17.12.52.png",
+            "title": "Screen Shot 2017-02-21 at 17.12.52.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U03V2PZUB",
+            "editable": false,
+            "size": 115612,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48ACLK7D\/screen_shot_2017-02-21_at_17.12.52.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F48ACLK7D\/download\/screen_shot_2017-02-21_at_17.12.52.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 155,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 206,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_720.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720_w": 720,
+            "thumb_720_h": 310,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_960.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_960_w": 960,
+            "thumb_960_h": 413,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F48ACLK7D-3896a82d53\/screen_shot_2017-02-21_at_17.12.52_1024.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 441,
+            "image_exif_rotation": 1,
+            "original_w": 1246,
+            "original_h": 536,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/karlfreeman\/F48ACLK7D\/screen_shot_2017-02-21_at_17.12.52.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F48ACLK7D-646fdbce90",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03V2PZUB",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "karlfreeman",
+        "bot_id": null,
+        "ts": "1487697201.000731"
+    },
+    {
+        "type": "message",
+        "user": "U47NR1DDM",
+        "text": "To start an on topic conversation I just logged in to LinkedIn and the feed is now all powered by Ember! <https:\/\/www.linkedin.com\/feed\/>",
+        "attachments": [
+            {
+                "title": "Sign Up",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/",
+                "text": "400 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+                "fallback": "Sign Up",
+                "from_url": "https:\/\/www.linkedin.com\/feed\/",
+                "service_icon": "https:\/\/static.licdn.com\/scds\/common\/u\/img\/icon\/apple-touch-icon.png",
+                "service_name": "LinkedIn",
+                "id": 1
+            }
+        ],
+        "ts": "1487697588.000733",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U14KVFYS3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<@U47NR1DDM> :)",
+        "ts": "1487698393.000735"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "New LinkedIn is off to a good start. Hope they keep up the momentum. ",
+        "ts": "1487698412.000736"
+    }
+]

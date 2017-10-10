@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I think I did for some time",
+        "ts": "1483694797.000266"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but we changed to bugsnag at some point",
+        "ts": "1483694804.000267"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "i'm only 70% sure of what I'm saying",
+        "ts": "1483694832.000268",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3DEEE3K5",
+                    "U047GTU64"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’m finally moving to aws cli,\n\nmy evenings learning:\n\n```\n#!\/usr\/bin\/env bash\n\nROOT_NAME=quantumjs\n# Bucket name must be all lowercase, and start\/end with lowecase letter or number\n# $(echo...) code to work with versions of bash older than 4.0\nBUCKET_NAME=test2-$(echo \"$ROOT_NAME\" | tr '[:upper:]' '[:lower:]')\nTABLE_NAME=LoginTrail$ROOT_NAME\n\n# Replace with your 12-digit AWS account ID (e.g., 123456789012)\nAWS_ACCOUNT=180971085012\nROLE_NAME_PREFIX=$ROOT_NAME\nPOOL_NAME=$ROOT_NAME\nIDENTITY_POOL_NAME=$ROOT_NAME\nREGION=us-west-2\n\n# Create the bucket\naws s3 mb s3:\/\/$BUCKET_NAME\/ --region $REGION\nmkdir test\ntouch test\/foo.txt\ntouch test\/foo2.txt\ntouch test\/foo3.txt\n\naws s3 cp test s3:\/\/$BUCKET_NAME --recursive\n\n```",
+        "ts": "1483745001.000269"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’m not even sure if I had to set my AWS_ACCOUNT",
+        "ts": "1483745036.000270"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "more fun than using the web UI",
+        "ts": "1483745065.000271"
+    },
+    {
+        "type": "message",
+        "user": "U14KVFYS3",
+        "text": "Big fan of the CLI too, great for searching through everything fast!",
+        "ts": "1483745273.000272",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U04BE0ELZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I tried this:\n` aws iam list-users --output table`\nbut get this:\n```\nAn error occurred (AccessDenied) when calling the ListUsers operation: User: arn:aws:iam::180971085012:user\/test is not authorized to perform: iam:ListUsers on resource: arn:aws:iam::180971085012:user\/\n```\nany ideas?",
+        "ts": "1483745806.000273"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "Looks like an IAM rights issue; give the \"test\" user the rights or maybe better use a different credential for your CLI commands that had admin rights",
+        "ts": "1483746930.000274"
+    }
+]

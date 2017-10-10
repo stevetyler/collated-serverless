@@ -1,0 +1,215 @@
+[
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<@U040MK408> hey, does setting the locale on power calendar set the time zone on the dayMoments? (<https:\/\/github.com\/cibernox\/ember-power-calendar\/blob\/49eff727309fbe77ca117062382698feb5c41fe6\/addon\/components\/power-calendar\/days.js#L181>)",
+        "edited": {
+            "user": "U043951H9",
+            "ts": "1488274505.000000"
+        },
+        "ts": "1488274500.000893"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I would expect everything to be localised",
+        "ts": "1488274623.000896"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it isn't?",
+        "ts": "1488274625.000897"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "for context, we’re trying to compare a date in +01:00. And when this line \n\n```\ndayMoment.isSame(calendar.selected, ‘day’)\n```\n\nruns, it converts the calendar selected day to utc which then makes it the previous day. I’ll mess around with locale a little more",
+        "ts": "1488274760.000898"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I admit I get pretty lost in locales and timezones",
+        "ts": "1488274836.000899"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'm buried under work today tho",
+        "ts": "1488274857.000900"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and all week for that matter",
+        "ts": "1488274862.000901"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "no worries, ill see what we can pull together and open a pr \/ figure it out",
+        "ts": "1488274937.000902"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "thanks!",
+        "edited": {
+            "user": "U043951H9",
+            "ts": "1488274940.000000"
+        },
+        "ts": "1488274939.000903"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U043951H9> might not be useful, but have you considered keeping timezones out of EPC (keep manipulations in UTC) and `utcOffset`'ing it back to the user.",
+        "edited": {
+            "user": "U03V2PZUB",
+            "ts": "1488275168.000000"
+        },
+        "ts": "1488275110.000905"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "yep, thats what we’re giving a go now",
+        "ts": "1488275247.000907"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "this area of the app is so time heavy and shows dates in three times zones",
+        "ts": "1488275262.000908"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": ":confused:",
+        "ts": "1488275266.000909"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": ":cry:",
+        "ts": "1488275270.000910"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U043951H9> just a thought, as I've gone down a similar path of trying to get date manipulations in 3rd party libs — as good as this one is! — to behave correctly but it gets hard to track down timezone offsets if you're setting it once and hoping that every moment object created from that point sticks to it.",
+        "edited": {
+            "user": "U03V2PZUB",
+            "ts": "1488275401.000000"
+        },
+        "ts": "1488275314.000911"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "_especially in three time zones!_",
+        "ts": "1488275568.000915"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": ":cold_sweat:",
+        "ts": "1488275575.000916"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "Timezones, not even once.",
+        "ts": "1488275588.000917"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "yeah, its always a pain",
+        "ts": "1488276055.000918"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "that seems to have done the trick",
+        "ts": "1488276061.000919"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "at least moment makes it easier",
+        "ts": "1488276092.000920"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": ":pray: Moment :pray:",
+        "ts": "1488277259.000921"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "<@U043951H9> seems that you have the expertise I lack for dealing with time zones",
+        "ts": "1488281091.000922"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "so if you find a better approach, just let me know",
+        "ts": "1488281103.000923"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "cool, we did it without changing the power calendar, only because as <@U03V2PZUB> was saying, we didn’t think it should be a concern. We just normalised the input to be a utc time",
+        "ts": "1488281533.000924"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "if you think there is a better wait of doing it now is the time",
+        "ts": "1488282502.000926"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I don't have an use case where I exercise timezones",
+        "ts": "1488282534.000927"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "so I'm not aware of the caveats",
+        "ts": "1488282547.000928"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "ok, ill have a think as we build this feature out a little",
+        "ts": "1488282606.000929"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’m live streaming tonight! <https:\/\/www.youtube.com\/watch?v=i5smyibHf5o>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Coding the warp router",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=i5smyibHf5o",
+                "author_name": "Quantum Information",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0XiDgtbFR8ohoGlstuFgGQ",
+                "fallback": "YouTube Video: Coding the warp router",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/i5smyibHf5o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=i5smyibHf5o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1488302012.000930"
+    }
+]

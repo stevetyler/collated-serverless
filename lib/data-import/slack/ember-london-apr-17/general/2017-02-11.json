@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<@U044QMK6K> my PT used to be a boxer so he gave me a massive discount on boxing lessons(rather than exercising), FF in queens park",
+        "attachments": [
+            {
+                "fallback": "[February 9th, 2017 1:14 PM] rlivsey: <@U047GTU64> where do you box?",
+                "ts": "1486646092.000527",
+                "author_subname": "rlivsey",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U047GTU64> where do you box?",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/rlivsey",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/c004d67820a114e24ccf6f2ddaf5b236.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1486646092000527",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1486844146.000558"
+    }
+]

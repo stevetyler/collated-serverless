@@ -1,0 +1,210 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<https:\/\/www.ted.com\/talks\/chris_hadfield_what_i_learned_from_going_blind_in_space?language=en#t-444862>",
+        "attachments": [
+            {
+                "service_name": "TED",
+                "service_url": "http:\/\/ted.com",
+                "title": "Chris Hadfield: What I learned from going blind in space",
+                "title_link": "https:\/\/www.ted.com\/talks\/chris_hadfield_what_i_learned_from_going_blind_in_space?language=en#t-444862",
+                "author_name": "Chris Hadfield",
+                "author_link": "https:\/\/www.ted.com\/speakers\/chris_hadfield",
+                "thumb_url": "https:\/\/pe.tedcdn.com\/images\/ted\/e77007daaafb652bacbc73a3819f4165d39c06dd_240x180.jpg?lang=en",
+                "thumb_width": 240,
+                "thumb_height": 180,
+                "text": "There's an astronaut saying: In space, “there is no problem so bad that you can’t make it worse.” So how do you deal with the complexity, the sheer pressure, of dealing with dangerous and scary situations? Retired colonel Chris Hadfield paints a vivid portrait of how to be prepared for the worst in space (and life) -- and it starts with walking into a spider’s web. Watch for a special space-y performance.",
+                "fallback": "TED Video: Chris Hadfield: What I learned from going blind in space",
+                "from_url": "https:\/\/www.ted.com\/talks\/chris_hadfield_what_i_learned_from_going_blind_in_space?language=en#t-444862",
+                "service_icon": "https:\/\/www.ted.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1484912232.000335"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "nice talk",
+        "ts": "1484918891.000337"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "yeah",
+        "ts": "1484919695.000338"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "you wanna give a TED talk one day? <@U040MK408>",
+        "edited": {
+            "user": "U04BE0ELZ",
+            "ts": "1484919717.000000"
+        },
+        "ts": "1484919707.000339"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "im going to attend there london ones soon",
+        "ts": "1484919755.000341"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I wouldn't know what to say actually",
+        "ts": "1484920100.000342"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<http:\/\/www.infoworld.com\/article\/3150716\/application-development\/forget-angular-3-google-skips-straight-to-angular-4.html>",
+        "attachments": [
+            {
+                "service_name": "InfoWorld",
+                "title": "Forget Angular 3, Google jumps straight to Angular 4",
+                "title_link": "http:\/\/www.infoworld.com\/article\/3150716\/application-development\/forget-angular-3-google-skips-straight-to-angular-4.html",
+                "text": "Google will skip over number 3 of its JavaScript framework and offer version 4 in March",
+                "fallback": "InfoWorld: Forget Angular 3, Google jumps straight to Angular 4",
+                "image_url": "http:\/\/images.techhive.com\/images\/article\/2015\/10\/goldfish_jumping_success_promotion-100622543-primary.idge.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "from_url": "http:\/\/www.infoworld.com\/article\/3150716\/application-development\/forget-angular-3-google-skips-straight-to-angular-4.html",
+                "image_bytes": 74308,
+                "service_icon": "http:\/\/idge.staticworld.net\/ifw\/IFW_logo_social_300x300.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484920818.000343"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "not related to TED)",
+        "ts": "1484920828.000345"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "ember made so made good decisions ages ago",
+        "ts": "1484920901.000346"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "feel sorry for angular devs",
+        "ts": "1484920910.000347"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "think they are doing the right thing now",
+        "ts": "1484920918.000348"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "Hopefully ... the whole 2.0 release cycle was a total mess, and unnecessarily so in many instances (like they changed half the API between RC6 and RC7 or something)",
+        "ts": "1484921493.000349"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "the point releases have been good though",
+        "ts": "1484921508.000350"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "to be fair, I recall ember changing APIs during the .rcX cycle",
+        "ts": "1484921626.000351"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and fairly important APIs",
+        "ts": "1484921636.000352"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "like 1.x or 2.x?",
+        "ts": "1484921672.000353"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "`1.0.0-rcX`",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1484921692.000000"
+        },
+        "ts": "1484921686.000354"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "ok",
+        "ts": "1484921692.000356"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "starting with a new router",
+        "ts": "1484921699.000357"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "xD",
+        "ts": "1484921700.000358"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "I remember giving up on ember many times around then because tutorials were all immediately out of date :troll:",
+        "edited": {
+            "user": "U06BGNMBL",
+            "ts": "1484921727.000000"
+        },
+        "ts": "1484921717.000359"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "about angular 4, I have nothing to argue about bumping a mayor version, it's not nearly as big of a change as it was 1.X -&gt; 2",
+        "ts": "1484921735.000361"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I find the arguments for skipping the 3 silly",
+        "ts": "1484921750.000362"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but they said they'd release a new mayor version every 6 months",
+        "ts": "1484921770.000363"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and they deliver",
+        "ts": "1484921773.000364"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "6 months is perhaps a bit too much for my taste",
+        "ts": "1484921802.000365"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "1.5 years of ember too little for my taste",
+        "ts": "1484921812.000366"
+    }
+]

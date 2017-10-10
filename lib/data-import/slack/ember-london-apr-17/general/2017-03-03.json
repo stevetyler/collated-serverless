@@ -1,0 +1,155 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "noob css issue here: any ideas what could cause the small green line next to my quantum info image here on hover:",
+        "edited": {
+            "user": "U04BE0ELZ",
+            "ts": "1488561274.000000"
+        },
+        "ts": "1488561229.000953"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BE0ELZ|nikoskatsikanis> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F4CMK4WE4\/pasted_image_at_2017_03_03_05_14_pm.png|Pasted image at 2017-03-03, 5:14 PM>",
+        "file": {
+            "id": "F4CMK4WE4",
+            "created": 1488561249,
+            "timestamp": 1488561249,
+            "name": "Pasted image at 2017_03_03 05_14 PM.png",
+            "title": "Pasted image at 2017-03-03, 5:14 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BE0ELZ",
+            "editable": false,
+            "size": 137776,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F4CMK4WE4\/pasted_image_at_2017_03_03_05_14_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F4CMK4WE4\/download\/pasted_image_at_2017_03_03_05_14_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 126,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 168,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F4CMK4WE4-e282bf1b45\/pasted_image_at_2017_03_03_05_14_pm_720.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_720_w": 720,
+            "thumb_720_h": 252,
+            "image_exif_rotation": 1,
+            "original_w": 939,
+            "original_h": 328,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F4CMK4WE4\/pasted_image_at_2017_03_03_05_14_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F4CMK4WE4-85e20a0c48",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04BE0ELZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "nikoskatsikanis",
+        "bot_id": null,
+        "ts": "1488561251.000954"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I tried the usual suspects",
+        "ts": "1488561259.000955"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "do you have a link?",
+        "ts": "1488561470.000957"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "no yet will do soon",
+        "ts": "1488561572.000958"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "later today with new version of the site",
+        "ts": "1488561585.000959"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "```a:hover { text-decoration: none }```",
+        "ts": "1488561679.000960"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "thats the one thanks",
+        "ts": "1488561753.000961",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3W7SH77W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I thought a would cascade the css to the hover too",
+        "ts": "1488561776.000963"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": "i dont think so",
+        "ts": "1488561790.000964"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "you may watch my youtube vids for free)",
+        "ts": "1488561812.000965"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "oh.. they all ready are!",
+        "ts": "1488561826.000966"
+    },
+    {
+        "type": "message",
+        "user": "U3W7SH77W",
+        "text": ":smile:",
+        "ts": "1488561831.000967"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "some things in css never seem to stick",
+        "ts": "1488562227.000968"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "like roughcast",
+        "ts": "1488562236.000969"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NNSV1FE|roncooper> shared a file: <https:\/\/emberlondon.slack.com\/files\/roncooper\/F44A5R9V1\/HTML5__Coding_a_Modern_Website|HTML5: Coding a Modern Website>",
+        "file": {
+            "id": "F44A5R9V1",
+            "created": 1486926227,
+            "timestamp": 1486926291,
+            "name": "HTML5__Coding_a_Modern_Website",
+            "title": "HTML5: Coding a Modern Website",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U1NNSV1FE",
+            "editable": true,
+            "size": 431,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44A5R9V1\/HTML5__Coding_a_Modern_Website?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44A5R9V1\/download\/HTML5__Coding_a_Modern_Website?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/roncooper\/F44A5R9V1\/HTML5__Coding_a_Modern_Website",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F44A5R9V1-028852a2d4",
+            "preview": "<document><p>Check it out! LIVESTREAM<\/p><p><a href=\"https:\/\/www.liveedu.tv\/elijahwass99\/videos\/REABM-html5-coding-a-modern-website-4\">https:\/\/www.liveedu.tv\/elijahwass99\/videos\/REABM-html5-coding-a-modern-website-4<\/a><\/p><div class=\"unfurl-container unfurl-render-pending\"><a class=\"unfurl-placeholder\" href=\"https:\/\/www.liveedu.tv\/elijahwass99\/videos\/REABM-html5-coding-a-modern-website-4\">https:\/\/www.liveedu.tv\/elijahwass99\/videos\/REABM-html5-coding-a-modern-website-4<\/a><\/div><p><\/p><\/document>",
+            "updated": 1486926291,
+            "editor": "U1NNSV1FE",
+            "last_editor": "U1NNSV1FE",
+            "state": "locked",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1NNSV1FE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "roncooper",
+        "bot_id": null,
+        "ts": "1486926256.000559"
+    }
+]

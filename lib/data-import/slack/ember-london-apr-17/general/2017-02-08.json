@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BD6KB1|ksnyde> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/ksnyde\/F42P3TH1S\/pasted_image_at_2017_02_08_03_23_pm.png|anyone seen this?>",
+        "file": {
+            "id": "F42P3TH1S",
+            "created": 1486567432,
+            "timestamp": 1486567432,
+            "name": "Pasted image at 2017_02_08 03_23 PM.png",
+            "title": "anyone seen this?",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BD6KB1",
+            "editable": false,
+            "size": 125166,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F42P3TH1S\/pasted_image_at_2017_02_08_03_23_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F42P3TH1S\/download\/pasted_image_at_2017_02_08_03_23_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F42P3TH1S-1989bbf95e\/pasted_image_at_2017_02_08_03_23_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F42P3TH1S-1989bbf95e\/pasted_image_at_2017_02_08_03_23_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F42P3TH1S-1989bbf95e\/pasted_image_at_2017_02_08_03_23_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 283,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F42P3TH1S-1989bbf95e\/pasted_image_at_2017_02_08_03_23_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 347,
+            "original_h": 442,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/ksnyde\/F42P3TH1S\/pasted_image_at_2017_02_08_03_23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F42P3TH1S-8a4b4fa1be",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04BD6KB1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "ksnyde",
+        "bot_id": null,
+        "ts": "1486567433.000465"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "I'm noticing this in Ember inspector. very odd.",
+        "ts": "1486567448.000466"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "Anyone aware of what might be causing this?",
+        "ts": "1486567483.000467"
+    },
+    {
+        "type": "message",
+        "user": "U3X3283L6",
+        "text": "Hi",
+        "ts": "1486568949.000468"
+    },
+    {
+        "type": "message",
+        "user": "U3X3283L6",
+        "text": "What is the cadence of Ember London?",
+        "ts": "1486568966.000469"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "1 per month (of standard style)",
+        "ts": "1486568996.000470"
+    },
+    {
+        "type": "message",
+        "user": "U3X3283L6",
+        "text": "Some events are on - for example - the last Wednesday of the month",
+        "ts": "1486569000.000471"
+    },
+    {
+        "type": "message",
+        "user": "U3X3283L6",
+        "text": "Does Ember London have a similar system at all, do you know?",
+        "edited": {
+            "user": "U3X3283L6",
+            "ts": "1486569018.000000"
+        },
+        "ts": "1486569006.000472"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "and 1 per month of more casual style",
+        "ts": "1486569018.000474"
+    },
+    {
+        "type": "message",
+        "user": "U043AB2QT",
+        "text": "2nd Thursday of the month generally",
+        "ts": "1486569044.000476"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "well Jamie is best positioned to answer this ... typically we had aimed for 2nd Thursday",
+        "ts": "1486569051.000477"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "but with new venues that may force a bit more irregularity (not sure)",
+        "ts": "1486569067.000478"
+    },
+    {
+        "type": "message",
+        "user": "U3X3283L6",
+        "text": "Sure :slightly_smiling_face: Thanks <@U043AB2QT>  and <@U04BD6KB1>",
+        "edited": {
+            "user": "U3X3283L6",
+            "ts": "1486569125.000000"
+        },
+        "ts": "1486569086.000479"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "lol <https:\/\/youtu.be\/06x2f3UtUkE?t=216>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "RC CAR TRAXXAS X-MAXX - FPV DOG PURSUIT... VIDEO GAG - MONSTER TRUCKS",
+                "title_link": "https:\/\/youtu.be\/06x2f3UtUkE?t=216",
+                "author_name": "thonain",
+                "author_link": "https:\/\/www.youtube.com\/user\/thonain",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/06x2f3UtUkE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: RC CAR TRAXXAS X-MAXX - FPV DOG PURSUIT... VIDEO GAG - MONSTER TRUCKS",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/06x2f3UtUkE?start=216&feature=oembed&start=216&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/06x2f3UtUkE?t=216",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1486571249.000481"
+    }
+]

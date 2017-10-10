@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'd do `git grep Ember.get` :troll: to check",
+        "ts": "1485773232.000378"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "assertions are exceptiosn",
+        "ts": "1485774539.000379"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "they should have a stack trace to follow",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1485774548.000000"
+        },
+        "ts": "1485774545.000380"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "Double checking something:",
+        "ts": "1485785062.000382"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "Yarn deprecates the `devDependencies` entry in `packages.json`. As I understand it, this is because it should be your build tool that grabs\/concatenates the correct, actually used dependencies into your final product. Am I correct?",
+        "ts": "1485785068.000383"
+    },
+    {
+        "type": "message",
+        "user": "U0BR1H1FY",
+        "text": "<@U05485UQL> <https:\/\/yarnpkg.com\/en\/docs\/cli\/add#toc-yarn-add-dev-d>",
+        "edited": {
+            "user": "U0BR1H1FY",
+            "ts": "1485786005.000000"
+        },
+        "ts": "1485785998.000384"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "oh darn… I’m pretty sure `yarn help` listed that option as “deprecated” earlier this month...",
+        "ts": "1485786894.000387"
+    },
+    {
+        "type": "message",
+        "user": "U0BR1H1FY",
+        "text": "Oh that could be, It’s hard to keep up :stuck_out_tongue:",
+        "ts": "1485789135.000388"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "dev dependencies cannot be deprecated",
+        "ts": "1485789636.000389"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "unless they are replaced by some other system, like a gemfile-like file with groups",
+        "ts": "1485789675.000390"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but the distinction between dev\/runtime must exist somehow",
+        "ts": "1485789688.000391"
+    }
+]

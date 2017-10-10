@@ -1,0 +1,201 @@
+[
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<@U03V8V08M> what happened? <http:\/\/www.ember.london\/>",
+        "attachments": [
+            {
+                "title": "Ember | London – Premium bar with delicious pan-asian cuisine",
+                "title_link": "http:\/\/www.ember.london\/",
+                "text": "From a quick lunch to a longer drink (or two), wine tasting to corporate events, engagement parties to work celebrations. Everyone is welcome at Ember.",
+                "fallback": "Ember | London – Premium bar with delicious pan-asian cuisine",
+                "from_url": "http:\/\/www.ember.london\/",
+                "service_icon": "http:\/\/www.ember.london\/wp-content\/uploads\/2016\/01\/favicon.ico",
+                "service_name": "ember.london",
+                "id": 1
+            }
+        ],
+        "ts": "1490012059.060818",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U04BD6KB1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "lol",
+        "ts": "1490012063.061935"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "ohhhh, this was never the website",
+        "ts": "1490012090.069647"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Lol",
+        "ts": "1490012793.272687"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "i was so confused",
+        "ts": "1490012804.275940"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "I’ve made that mistake many times",
+        "ts": "1490012822.281147"
+    },
+    {
+        "type": "message",
+        "user": "U045SGGD8",
+        "text": "tbh you should totally organize an event there one day",
+        "ts": "1490012837.285315"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Haha",
+        "ts": "1490014645.866007"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'm in",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1490016403.000000"
+        },
+        "ts": "1490016400.555277"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": ":hand:",
+        "ts": "1490016839.746583"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "I mentioned it previously for a Christmas social, Ember at Ember London at Ember London.",
+        "edited": {
+            "user": "U03V2PZUB",
+            "ts": "1490018684.000000"
+        },
+        "ts": "1490016865.757652"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "<http:\/\/i2.kym-cdn.com\/photos\/images\/facebook\/000\/531\/557\/a88.jpg>",
+        "attachments": [
+            {
+                "fallback": "600x339px image",
+                "image_url": "http:\/\/i2.kym-cdn.com\/photos\/images\/facebook\/000\/531\/557\/a88.jpg",
+                "image_width": 600,
+                "image_height": 339,
+                "image_bytes": 25366,
+                "from_url": "http:\/\/i2.kym-cdn.com\/photos\/images\/facebook\/000\/531\/557\/a88.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1490018172.372572"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "back when we were New Bamboo, we would receive calls intended for an Asian restaurant in Battersea, with the same name",
+        "ts": "1490021357.093773"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "One of these days I'll open a taco place called Thoughtbot",
+        "ts": "1490027419.593354",
+        "reactions": [
+            {
+                "name": "taco",
+                "users": [
+                    "U05485UQL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": ":troll:",
+        "ts": "1490027427.597938"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "Anyone tempted? <https:\/\/antsle.com>",
+        "attachments": [
+            {
+                "service_name": "antsle: The Private Cloud Server, Designed for Developers",
+                "title": "antsle: Home - The Private Cloud made easy",
+                "title_link": "https:\/\/antsle.com",
+                "text": "Meet The New Kid On The Block: antsle The Private Cloud Server, Designed for Developers. Watch The Video Explore antsle First plug &amp; play solution that lets you easily host from your home or office. 100+ Run over 100 Virtual Servers on your own Private Cloud Server. Learn How &gt; 10s Create both VMs &amp; …",
+                "fallback": "antsle: The Private Cloud Server, Designed for Developers: antsle: Home - The Private Cloud made easy",
+                "from_url": "https:\/\/antsle.com",
+                "service_icon": "https:\/\/antsle.com\/wp-content\/uploads\/2017\/02\/cropped-antsle-180x180.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490032009.115637"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "not sure it makes sense with cloud prices always decreasing but I still really want one.",
+        "ts": "1490032112.172045"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "<@U04BD6KB1> surely its mirrored somewhere? because what happen if my house burns down?",
+        "ts": "1490032434.345796"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "buy two and store one at your friend's house",
+        "ts": "1490032453.356011"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "loooool",
+        "ts": "1490032459.359293"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": ":stuck_out_tongue:",
+        "ts": "1490032459.359597"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "Starting at $699.00",
+        "ts": "1490032511.387317"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "yeah it has to be a close friend :wink:",
+        "ts": "1490032651.464440"
+    }
+]

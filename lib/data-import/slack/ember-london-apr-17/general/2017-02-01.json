@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U3Z03PELR",
+        "text": "<@U3Z03PELR|elliotoco> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1485980404.000398"
+    },
+    {
+        "type": "message",
+        "user": "U3Z03PELR",
+        "text": "Hello everyone. Not sure if this is the best place to post this but I'm looking to hire a third experienced JS engineer. I run a government funded startup that's building an Edtech product to improve attainment scores in A-Level computing. I'm looking to hire asap and the product is being built from ground-up so perfect for someone who wants to get their hands dirty. DM me if you're up for a chat. \n\nWe use full stack JS, graphql, serverless and some more cool technologies ",
+        "ts": "1485981036.000399"
+    },
+    {
+        "user": "U3Z3V91A4",
+        "text": "<@U3Z3V91A4|huskerdu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486001714.000400"
+    }
+]

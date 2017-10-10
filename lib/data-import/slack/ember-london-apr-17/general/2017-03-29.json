@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "is the bower.json file gone on new versions of ember-cli?",
+        "ts": "1490781026.750184"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<https:\/\/github.com\/ember-cli\/ember-cli\/pull\/6739>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Remove bower.json files again by Turbo87 · Pull Request #6739 · ember-cli\/ember-cli",
+                "title_link": "https:\/\/github.com\/ember-cli\/ember-cli\/pull\/6739",
+                "text": "Reverts #6731 and adds bower.json to the filesToRemove arrays",
+                "fallback": "GitHub: Remove bower.json files again by Turbo87 · Pull Request #6739 · ember-cli\/ember-cli",
+                "from_url": "https:\/\/github.com\/ember-cli\/ember-cli\/pull\/6739",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/141300?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490781033.752628"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "yes, although .bowerrc is still there",
+        "ts": "1490788380.864993"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "(on beta anyway)",
+        "ts": "1490788387.866924"
+    },
+    {
+        "type": "message",
+        "user": "U18BAPQ82",
+        "text": "Hi all. I've hit a problem with a polymorphic `hasMany`: I've a `user` model defined in my app with a `posts: hasMany('post', { polymorphic: true })` relationship. In an addon, I've got a `post` model, and a `summary-post` model which extends `post`. When I try to add a `summary-post` to a `user.posts` relationship, I get the error \"You cannot add a record of modelClass 'summary-post' to the 'user.posts' relationship (only 'post' allowed)\". Any ideas? Thanks!",
+        "ts": "1490795694.859033"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ZCHFjGSCqP4>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "EmberConf Day 2 2017",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZCHFjGSCqP4",
+                "author_name": "Confreaks",
+                "author_link": "https:\/\/www.youtube.com\/user\/Confreaks",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZCHFjGSCqP4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: EmberConf Day 2 2017",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZCHFjGSCqP4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZCHFjGSCqP4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490796162.127037"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<@U04BD6KB1> I see, I’ll see what users I have on the aws console and try switch to that on the cli",
+        "ts": "1483787950.000275"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BD6KB1|ksnyde> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/ksnyde\/F3MR96W1W\/2017-01-07_11-42-04.png|.aws\/credentials> and commented: just make sure your credentials file is setup, then you can switch around users easily with the CLI",
+        "file": {
+            "id": "F3MR96W1W",
+            "created": 1483789430,
+            "timestamp": 1483789430,
+            "name": "2017-01-07_11-42-04.png",
+            "title": ".aws\/credentials",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BD6KB1",
+            "editable": false,
+            "size": 87286,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F3MR96W1W\/2017-01-07_11-42-04.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F3MR96W1W\/download\/2017-01-07_11-42-04.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3MR96W1W-1c50dc5da7\/2017-01-07_11-42-04_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3MR96W1W-1c50dc5da7\/2017-01-07_11-42-04_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3MR96W1W-1c50dc5da7\/2017-01-07_11-42-04_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 332,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3MR96W1W-1c50dc5da7\/2017-01-07_11-42-04_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 480,
+            "thumb_480_h": 442,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F3MR96W1W-1c50dc5da7\/2017-01-07_11-42-04_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 484,
+            "original_h": 446,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/ksnyde\/F3MR96W1W\/2017-01-07_11-42-04.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F3MR96W1W-d98c366200",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3MS2SZ6D",
+                "created": 1483789430,
+                "timestamp": 1483789430,
+                "user": "U04BD6KB1",
+                "is_intro": true,
+                "comment": "just make sure your credentials file is setup, then you can switch around users easily with the CLI",
+                "channel": ""
+            }
+        },
+        "user": "U04BD6KB1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "ksnyde",
+        "bot_id": null,
+        "ts": "1483789432.000276"
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "lol <@U047GTU64> I want one too!",
+        "ts": "1489062564.673238"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I got one",
+        "ts": "1489062600.679198"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "how much money can I save now HMRC are out to kill contracting",
+        "ts": "1489062655.688250"
+    },
+    {
+        "user": "U4F8TFHQ9",
+        "text": "<@U4F8TFHQ9|lllama> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489062682.693026"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<@U04BE0ELZ> haven't picked it up from the embassy yet",
+        "ts": "1489063018.749110"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "it was a move inspired by the UK leaving the EU",
+        "ts": "1489063032.751279"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "given that Estonia is in the EU and offers a better tax structure too",
+        "ts": "1489063044.753333"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm trying to find online solutions to manage my entire operation remotely",
+        "ts": "1489063060.756107"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<http:\/\/leapin.eu|leapin.eu> has been recommended and I'm trying to book a demo",
+        "ts": "1489063068.757307"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I doubt the HMRC would let this happen",
+        "ts": "1489063068.757358"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "it must be a red flag",
+        "ts": "1489063080.759349"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "so legally speaking",
+        "ts": "1489063083.759795"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "its like an EU company trading in the UK, nothing really off",
+        "ts": "1489063093.761212"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "cool, leapon wouldnt help me deliver onsite training in the USA would it?",
+        "ts": "1489063189.777574"
+    },
+    {
+        "type": "message",
+        "user": "U0ASPMFPS",
+        "text": "<@U047GTU64> and how do you apply for a E-residency?",
+        "ts": "1489063214.781538"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'm interested too",
+        "ts": "1489063674.860880"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "if I return to spain",
+        "ts": "1489063678.861501"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "although I don't think that tax-wise will be any saving",
+        "ts": "1489063693.863710"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "perhaps a 4\/5%",
+        "ts": "1489063706.865892"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "Dev qu, is there any overlap\/comparison between Web API and node API",
+        "ts": "1489063852.891491"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<https:\/\/developer.mozilla.org\/en\/docs\/Web\/API>",
+        "attachments": [
+            {
+                "service_name": "Mozilla Developer Network",
+                "title": "Web APIs",
+                "title_link": "https:\/\/developer.mozilla.org\/en\/docs\/Web\/API",
+                "text": "When writing code for the Web with JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.",
+                "fallback": "Mozilla Developer Network: Web APIs",
+                "thumb_url": "https:\/\/developer.cdn.mozilla.net\/static\/img\/opengraph-logo.dc4e08e2f6af.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en\/docs\/Web\/API",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.cdn.mozilla.net\/static\/img\/favicon144.a6e4162070f4.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489063853.891583"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I imagine that you can expect 99% of that not be in Node",
+        "ts": "1489063906.900315"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "node iirc just has javascript APIS + its own APIs",
+        "ts": "1489063927.903570"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "yea",
+        "ts": "1489063929.903866"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "thought so",
+        "ts": "1489063938.905525"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "just want to make sure for my training)",
+        "ts": "1489063949.907091"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "the interesting thing would be to know if an API belongs to JS or to the Web",
+        "ts": "1489063953.907761"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "by example, `Intl`",
+        "ts": "1489063966.909754"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I don't know if it's web or JS",
+        "ts": "1489063972.910743"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I'd say web",
+        "ts": "1489063975.911257"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "but it could also be a JS one",
+        "ts": "1489063995.914422"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "however URL is also in node",
+        "ts": "1489064070.926742"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "`require('url')`",
+        "ts": "1489064076.927635"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "so I imagine there will be a counterpart of most of that, but they will be a `require` away",
+        "ts": "1489064099.931297"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "instead of being globals",
+        "ts": "1489064103.931950"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "hmm",
+        "ts": "1489064292.964010"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "hope someone has a chart for this)",
+        "ts": "1489064303.965954"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "that web api doc is a bit overwhelming for a new dev",
+        "ts": "1489064401.982417"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I only use a small fraction of the api my whole life",
+        "edited": {
+            "user": "U04BE0ELZ",
+            "ts": "1489064417.000000"
+        },
+        "ts": "1489064413.984885"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "sorry I was at lunch",
+        "ts": "1489065435.179200"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "Through this website, official from Estonia. <https:\/\/e-estonia.com\/e-residents\/apply\/>",
+        "attachments": [
+            {
+                "fallback": "[March 9th, 2017 12:40 PM] silentworks: <@U047GTU64> and how do you apply for a E-residency?",
+                "ts": "1489063214.781538",
+                "author_subname": "silentworks",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U047GTU64> and how do you apply for a E-residency?",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/silentworks",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-01-13\/18412908433_fba7c2604c18745b1c50_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1489063214781538",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1489065469.185574"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'll have to dive into that and get back to you - remember that being a contractor in the UK is more efficient if you have your own LTD. However it's worth noting that you enter a tax bracket system through dividends(same fashion as if you were perm).\n\nI still need to triple check how taxing is handled",
+        "attachments": [
+            {
+                "fallback": "[March 9th, 2017 12:48 PM] cibernox: perhaps a 4\/5%",
+                "ts": "1489063706.865892",
+                "author_subname": "cibernox",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "perhaps a 4\/5%",
+                "author_name": "Miguel Camba",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/cibernox",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/aadced6e13c05d42faaf1be3bbb88b83.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1489063706865892",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1489065545.199803"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "coming back to the node conversation",
+        "ts": "1489065677.223656"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "working with node right now",
+        "ts": "1489065680.224148"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "slightly disagree. The programming model in Node.JS is different than that from web: callback-based, async programming by default, etc. I think if you look at the state of web today is a lot more fragmented",
+        "attachments": [
+            {
+                "fallback": "[March 9th, 2017 12:52 PM] cibernox: node iirc just has javascript APIS + its own APIs",
+                "ts": "1489063927.903570",
+                "author_subname": "cibernox",
+                "channel_id": "C03SSL0GP",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "node iirc just has javascript APIS + its own APIs",
+                "author_name": "Miguel Camba",
+                "author_link": "https:\/\/emberlondon.slack.com\/team\/cibernox",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/aadced6e13c05d42faaf1be3bbb88b83.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/emberlondon.slack.com\/archives\/general\/p1489063927903570",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1489065739.235478"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "i received a letter that starting next year i'm going to be considered a low expense business",
+        "ts": "1489066048.297462"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "and my VAT flat rate will go from 14.5 to 16.5",
+        "ts": "1489066066.300944"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "2% more taxes essentially",
+        "edited": {
+            "user": "U040MK408",
+            "ts": "1489066102.000000"
+        },
+        "ts": "1489066099.306870"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "for what I've read about estonia taxes las weekend, it's not that big of an advantage for contracting",
+        "ts": "1489066148.315886"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it is an advantage for fast growing company because companies don't 20% tax on benefits if they re-invert that money in the company",
+        "ts": "1489066199.325448",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0FTFSCJX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "how about corporation tax?",
+        "ts": "1489067234.546046"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "afaik corporation tax didn't change",
+        "ts": "1489068868.959600"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I’ve just about had enough of year after year of attack on take hope profit",
+        "ts": "1489073400.386283"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "basically you can be tax efficient if you only take £2500 + 6k a year personally and leave the rest in the business account",
+        "ts": "1489073506.424330"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I don’t understand the new class 4 rules though, AFAIK I havn’t been paying any NI in recent years as a contractor",
+        "ts": "1489073533.433317"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "so I don’t know whats changed with this 2%-10% rise for me",
+        "ts": "1489073549.438970"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "```\nEstonia’s tax system is quite unique due to one small quirk that makes it especially attractive to growing businesses that reinvest profits into further growing the company: The 20% corporate tax is only paid on distributed profits. So as long as profits are reinvested rather than being distributed to shareholders through dividends, no corporate tax is owed. You still need to pay the tax whenever the company actually do decide to distribute profits, however.\n```\n\npulled that from article",
+        "ts": "1489074190.653021"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "so it actually becomes a question of what can be labelled as a \"reinvestment\" in the company",
+        "ts": "1489074214.661695"
+    },
+    {
+        "type": "message",
+        "user": "U0L9R72E6",
+        "text": "Hi there! Thanks to everyone who came yesterday night at the Ember London Meetup.\nThe slides from my talk *The Art of Mastering Ember* are available at <http:\/\/bit.ly\/art-of-mastering-ember>\nI hope you find it useful and take away some actionable recipes to use in your application :chef:\nYour feedback are much appreciated to help me improve my presentation. DM me on slack or twitter @lauralebovic",
+        "attachments": [
+            {
+                "service_name": "Slides",
+                "title": "art-of-mastering-ember by Laura Lebovic",
+                "title_link": "http:\/\/bit.ly\/art-of-mastering-ember",
+                "text": "A presentation created with Slides.",
+                "fallback": "Slides: art-of-mastering-ember by Laura Lebovic",
+                "image_url": "https:\/\/s3.amazonaws.com\/media-p.slid.es\/thumbnails\/aef0140a30f0345c117ca55d1dd10f64\/thumb.jpg",
+                "from_url": "http:\/\/bit.ly\/art-of-mastering-ember",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 68258,
+                "service_icon": "http:\/\/slides.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1489078176.100010"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "if there are any gamers in here I have my own gaming server",
+        "ts": "1489084006.042362"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "<@U04BE0ELZ> what games is it running?",
+        "ts": "1489086371.822653"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "its a Go server on discord\n\nwe play on KGS\n\nim also deving an rts game just POC stage\nopen source for now though",
+        "ts": "1489086768.951423"
+    },
+    {
+        "type": "message",
+        "user": "U0C5RUAQ4",
+        "text": "ah cool",
+        "ts": "1489086815.966431"
+    }
+]

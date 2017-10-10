@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "<@U040MK408> :wink: <https:\/\/github.com\/cibernox\/rfcs-1\/pull\/1>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Fix typo by mariogintili · Pull Request #1 · cibernox\/rfcs-1 · GitHub",
+                "title_link": "https:\/\/github.com\/cibernox\/rfcs-1\/pull\/1",
+                "text": "minor typo on rendered RFC",
+                "fallback": "GitHub: Fix typo by mariogintili · Pull Request #1 · cibernox\/rfcs-1",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/3522106?v=3&s=400",
+                "from_url": "https:\/\/github.com\/cibernox\/rfcs-1\/pull\/1",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484133425.000283"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "I like the way you can script everything in aws via cli, although its proving a bit of a brain workout for me, I imagine this could speed up making apps on AWS in the future. Also seems to be lots of demand of AWS in jobs these days.",
+        "ts": "1484140673.000285"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<http:\/\/www.iheavy.com\/2016\/03\/28\/is-demand-for-aws-skills-skyrocketing\/>",
+        "ts": "1484141071.000286"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "should cya all tomorrow folks!",
+        "ts": "1484150596.000287"
+    }
+]

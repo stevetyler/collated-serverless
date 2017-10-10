@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "<@U03V2PZUB> yep",
+        "ts": "1483548241.000224"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U043951H9> Excellent. Thanks!\n\nI'm doing an integration test using `ember-changeset` + `ember-data` and hitting an error \"The backend rejected the commit because it was invalid\". I'm expecting this error to be thrown as I've set it up using mirage to do so. It seems I can't capture\/swallow the error using `ember-changeset` because I'm no longer in control of the save operation of the model being changed.\n\nHave you seen this problem before?",
+        "edited": {
+            "user": "U03V2PZUB",
+            "ts": "1483548544.000000"
+        },
+        "ts": "1483548485.000225"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "hm, not in an integration test but we do have a form that gets some errors from the backend",
+        "ts": "1483548590.000229"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "and this throws an error similar to that one",
+        "ts": "1483548602.000230"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "```\n      try {\n        yield changeset.save();\n      } catch(response) {\n        \/\/ show errors\n      }\n```",
+        "ts": "1483548656.000231"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "we do something like this",
+        "ts": "1483548661.000232"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "in a concurrency task",
+        "ts": "1483548667.000233"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U043951H9> I'll try something similar I currently `.catch()` the save but I'll give that a bash.",
+        "ts": "1483548880.000234"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "<@U043951H9> Thanks!",
+        "ts": "1483548890.000235",
+        "reactions": [
+            {
+                "name": "beer",
+                "users": [
+                    "U03V2PZUB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "no worries, let me know how it goes",
+        "ts": "1483548902.000236"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "would be interested to know",
+        "edited": {
+            "user": "U043951H9",
+            "ts": "1483548908.000000"
+        },
+        "ts": "1483548906.000237"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "currently battling saving relationships with a changeset",
+        "ts": "1483548922.000239"
+    },
+    {
+        "type": "message",
+        "user": "U03V2PZUB",
+        "text": "Yeah, will do.",
+        "ts": "1483548928.000240"
+    }
+]

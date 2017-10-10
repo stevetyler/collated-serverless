@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "Great news, you can start using babel6 in ember",
+        "ts": "1489422759.586555"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "what's good about babel6? Haven't been keeping up on that.",
+        "ts": "1489429058.036007"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "tl;dr; \n- It is maintained and gets new features, babel5 doesn't.\n- Those new features include newer ES2016\/2017\/2018 features\n- Even existing features get some improvements, like being transpiled to more performant code\n- It's plugin system is faster because does everything all the transpilation in a single pass.\n- Ember's implementation includes babel-preset-env, which in combination with the targets RFC (<https:\/\/github.com\/ember-cli\/rfcs\/blob\/master\/active\/0095-standardise-targets.md>) makes your app only transpile what is needed depending on the browsers you support",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "ember-cli\/rfcs",
+                "title_link": "https:\/\/github.com\/ember-cli\/rfcs\/blob\/master\/active\/0095-standardise-targets.md",
+                "text": "rfcs - RFCs for changes to ember-cli",
+                "fallback": "GitHub: ember-cli\/rfcs",
+                "from_url": "https:\/\/github.com\/ember-cli\/rfcs\/blob\/master\/active\/0095-standardise-targets.md",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/10262982?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489430619.847296"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "So happy this is finally happening",
+        "ts": "1489433506.275267"
+    },
+    {
+        "type": "message",
+        "user": "U04BD6KB1",
+        "text": "sounds like a very worthy update",
+        "ts": "1489447235.700262"
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "<https:\/\/github.com\/emberjs\/rfcs\/pull\/213>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Custom Components API by chancancode · Pull Request #213 · emberjs\/rfcs",
+                "title_link": "https:\/\/github.com\/emberjs\/rfcs\/pull\/213",
+                "text": "rendered",
+                "fallback": "GitHub: Custom Components API by chancancode · Pull Request #213 · emberjs\/rfcs",
+                "from_url": "https:\/\/github.com\/emberjs\/rfcs\/pull\/213",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/55829?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1489474436.272638",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U4DS1HV08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U03V8V08M",
+        "text": "Gonna need to read this through a few times. ",
+        "ts": "1489474450.274753"
+    }
+]

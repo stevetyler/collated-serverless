@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "hello embereños",
+        "ts": "1488191343.000882"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I have a question :smile: - what's the best library to use if you're writing a JSON-API compliant service in node.js. Seems to be a lot of options <http:\/\/jsonapi.org\/implementations\/#server-libraries-node-js>",
+        "ts": "1488191369.000883"
+    },
+    {
+        "type": "message",
+        "user": "U047GTU64",
+        "text": "I'm *only* looking for the serialisation layer",
+        "ts": "1488191379.000884"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I wrote my first lines of typescript this weekend and it's actually very very nice",
+        "ts": "1488200428.000885"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "it almost feels like an untyped language",
+        "ts": "1488200445.000886"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "hello peeps. Can someone tell me how I access a service in an acceptance test?",
+        "ts": "1488220012.000887"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "last time I had to resort to `let myService = this.application.__deprecatedInstance__.lookup(‘service:my-service’);`. I’m hoping there’s something better than that?",
+        "ts": "1488220048.000888"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "I think that there isn't",
+        "ts": "1488220458.000889"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "at least not a much better one",
+        "ts": "1488220522.000890"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": ":confused:",
+        "ts": "1488220934.000891"
+    },
+    {
+        "type": "message",
+        "user": "U05485UQL",
+        "text": "oh well. Thank you anyway",
+        "ts": "1488220941.000892"
+    }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "what a fab new venue!",
+        "ts": "1486721553.000537"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "indeed",
+        "ts": "1486723358.000538"
+    },
+    {
+        "type": "message",
+        "user": "U040MK408",
+        "text": "amazing offices!",
+        "ts": "1486723365.000539"
+    },
+    {
+        "type": "message",
+        "user": "U043951H9",
+        "text": "thanks! The talks were really great. Next time we’ll try get some other food to compliment the pizza as well",
+        "ts": "1486727121.000540"
+    },
+    {
+        "type": "message",
+        "user": "U06BGNMBL",
+        "text": "I'm going to make sure and come back so I can try that hammock thing",
+        "ts": "1486730052.000541"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "So what did you like and dislike about my talk? Feedback will help me formulate the future direction.",
+        "ts": "1486730355.000542"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "What would like to see in the Vanilla-TypeScript approach?",
+        "ts": "1486730374.000543"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<@U043951H9> food was amazinG!",
+        "edited": {
+            "user": "U04BE0ELZ",
+            "ts": "1486741572.000000"
+        },
+        "ts": "1486741569.000544",
+        "reactions": [
+            {
+                "name": "hamburger",
+                "users": [
+                    "U043951H9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pizza",
+                "users": [
+                    "U043951H9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "Got a quick question about my site , a css issue thats bugging me:",
+        "ts": "1486758370.000548"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "On mobile the background is supposed to show the earth like so:",
+        "ts": "1486758388.000549"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "<http:\/\/quantumjs.com\/>",
+        "ts": "1486758391.000550"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BE0ELZ|nikoskatsikanis> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F44MRMNR4\/pasted_image_at_2017_02_10_08_27_pm.png|in a fixed position>",
+        "file": {
+            "id": "F44MRMNR4",
+            "created": 1486758462,
+            "timestamp": 1486758462,
+            "name": "Pasted image at 2017_02_10 08_27 PM.png",
+            "title": "in a fixed position",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BE0ELZ",
+            "editable": false,
+            "size": 245126,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44MRMNR4\/pasted_image_at_2017_02_10_08_27_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44MRMNR4\/download\/pasted_image_at_2017_02_10_08_27_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44MRMNR4-347d8fe915\/pasted_image_at_2017_02_10_08_27_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44MRMNR4-347d8fe915\/pasted_image_at_2017_02_10_08_27_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44MRMNR4-347d8fe915\/pasted_image_at_2017_02_10_08_27_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 257,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44MRMNR4-347d8fe915\/pasted_image_at_2017_02_10_08_27_pm_480.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_480_w": 342,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44MRMNR4-347d8fe915\/pasted_image_at_2017_02_10_08_27_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 460,
+            "original_h": 645,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F44MRMNR4\/pasted_image_at_2017_02_10_08_27_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F44MRMNR4-714a7bf6d0",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04BE0ELZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "nikoskatsikanis",
+        "bot_id": null,
+        "ts": "1486758464.000551"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "but on the actual device the earth only shows then the device scrolls to the bottom, at least on my phone 5",
+        "edited": {
+            "user": "U04BE0ELZ",
+            "ts": "1486758491.000000"
+        },
+        "ts": "1486758485.000552"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04BE0ELZ|nikoskatsikanis> uploaded a file: <https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F44N3DG79\/pasted_image_at_2017_02_10_08_28_pm.png|the css:>",
+        "file": {
+            "id": "F44N3DG79",
+            "created": 1486758529,
+            "timestamp": 1486758529,
+            "name": "Pasted image at 2017_02_10 08_28 PM.png",
+            "title": "the css:",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04BE0ELZ",
+            "editable": false,
+            "size": 40896,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44N3DG79\/pasted_image_at_2017_02_10_08_28_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SSL0FF-F44N3DG79\/download\/pasted_image_at_2017_02_10_08_28_pm.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44N3DG79-17a5bb258b\/pasted_image_at_2017_02_10_08_28_pm_64.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44N3DG79-17a5bb258b\/pasted_image_at_2017_02_10_08_28_pm_80.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44N3DG79-17a5bb258b\/pasted_image_at_2017_02_10_08_28_pm_360.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "thumb_360_w": 360,
+            "thumb_360_h": 179,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SSL0FF-F44N3DG79-17a5bb258b\/pasted_image_at_2017_02_10_08_28_pm_160.png?t=xoxe-3910680525-164022038215-162623267088-4c403271ec",
+            "image_exif_rotation": 1,
+            "original_w": 371,
+            "original_h": 184,
+            "permalink": "https:\/\/emberlondon.slack.com\/files\/nikoskatsikanis\/F44N3DG79\/pasted_image_at_2017_02_10_08_28_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03SSL0FF-F44N3DG79-063c1e71cd",
+            "channels": [
+                "C03SSL0GP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04BE0ELZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "nikoskatsikanis",
+        "bot_id": null,
+        "ts": "1486758530.000554"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "must be the cover support",
+        "ts": "1486758635.000555"
+    },
+    {
+        "type": "message",
+        "user": "U04BE0ELZ",
+        "text": "hmm seems like its still an issue <http:\/\/stackoverflow.com\/questions\/18429620\/css-background-size-cover-replacement-for-mobile-safari>",
+        "attachments": [
+            {
+                "title": "CSS background-size: cover replacement for Mobile Safari",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/18429620\/css-background-size-cover-replacement-for-mobile-safari",
+                "text": "Hi I have several divs on my page which have background images that I want to expand to cover the entire div which in turn can expand to fill the width of the viewport. Obviously background-size: ...",
+                "fallback": "CSS background-size: cover replacement for Mobile Safari",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/18429620\/css-background-size-cover-replacement-for-mobile-safari",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486758701.000556"
+    }
+]
